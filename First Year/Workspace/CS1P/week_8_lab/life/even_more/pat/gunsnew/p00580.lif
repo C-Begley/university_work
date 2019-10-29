@@ -1,0 +1,23 @@
+#C p580 - doubled period of p290 with a p5 pulse divider
+#C Scot Ellison - August 11, 2003
+x = 112, y = 84, rule = B3/S23
+95boo$92boobbo$90b3oboo6bo$49bo39bo10b3o$29bo19b3o38b3oboo3bo$28bobo7b
+o13bo17boo6boo12boboo3boo$29bo6b3o12boo17boo4bobbo$18bo16bo40booboboo$
+18b3o14boo17bo24bobobo$21bo49bo4boobo3bo$20boo48b3o3boobbobboo19boo$
+73bo5boo23bo$69b3oboo27bobo$68bo3boo28boo$15boo25boo25bo$16bo25boo25bo
+bo$16bobo$17boo$$73boo$30boo40bobbo$30bobo6boo31b3o$32bo6bo20boo11boo$
+32boo6bo20bo41boo$39boo17b3o42boo$58bo8boo$67boo$54bo$53bobo$28boo22bo
+bobo$28bobo21bobobo$30bo20booboboo$30boo18bo3boobbo22boboo$49bobboo3b
+3o21boobo$49boboboobb3o42boo$50boboo3b3o30boo9bobbobboo$54boobbo3boo
+26boo9bobo4bo$12boo34b5oboboo4boo38bo5boboo$11bobo34bobbobbobo48boobob
+o$5bobbobbo41bobbo48bobbobbo$5b7o42boo46bo4bobboo$70boo30b5o$5b5o60bo$
+oobbo4bo61b3o26b7o$obbobbo66bo26bobbobbo$boboboo91bobo$oobo5bo50boo36b
+oo$3bo4bobo9boo39bo$3boobbobbo9boo36b3o$8boo48bo$27boboo$27boobo49boo$
+12b3o66bo$12booboo19bo44bobo$13boboo3bo13b3o45boo$12b3o5bo12bo$13boobb
+4o12boo$16bobo$19bo33bo$7boobboo5boo31b3o17boo$7boobbobo3b3o30bo20bo6b
+oo$12boo23boo11boo20bo6bo$12boo23boo32boo6bobo$80boo$86boo$$11boo80boo
+$11boo72boo6bobo$68boo14boboo7bo$24boo42boo14bo3bo6boo$8boo14boo59b3ob
+o$7bobo76b3o$7bo23boo78bo$6boo19boobbobboo54boo17bobo$28bo3boboo54bo
+19boo$28bobobo24bo17boo14b3o$29booboboo40bo16bo$32bobbo4boo17boo12b3o
+6bo$11boo3boobo12boo6boo17bo13bo7bobo$12bo3boob3o38b3o19bo$9b3o10bo39b
+o$9bo6boob3o$15bobboo$15boo!

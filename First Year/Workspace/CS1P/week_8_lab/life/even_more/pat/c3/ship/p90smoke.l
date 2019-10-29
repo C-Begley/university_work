@@ -1,0 +1,38 @@
+x = 93, y = 148
+11boo7boo25boo7boo$11booboobooboo12bo12booboobooboo$10bobobbobobbobo
+10bobo10bobobbobobbobo$10bobbo5bobbo9bo3bo9bobbo5bobbo$9bobobo5bobobo
+9b3o9bobobo5bobobo$6boobo5bobo5boboo15boobo5bobo5boboo$5boboboo3bo3bo
+3boobo5boo3boo5boboo3bo3bo3boobobo$3b3oboboo11boobobo3boo3boo3boboboo
+11boobob3o$bboobo21boobb3ob3obboo21boboo$bo3bo21b3o9b3o21bo3bo$28boobb
+ooboobboo$32booboo$28boobob3oboboo$28boobo5boboo$27bobobo5bobobo$27bo
+3bo5bo3bo$33bobo$27bo3b3ob3o3bo$27bob5ob5obo$27bobo9bobo$29bobooboboob
+o$28boobob3oboboo$29bobob3obobo$26booboboo3booboboo$26boobobo5boboboo$
+27bobobo5bobobo$8bo21boo5boo21bo$boob3ob3o20b7o20b3ob3oboo$boo4bobboob
+oo19bo19booboobbo4boo$obboboo3bobboo14bobobbobbobo14boobbo3boobobbo$
+12bobbo5bo6boobo5boboo6bo5bobbo$16bobb4o5boo3bobo3boo5b4obbo$19bo3bo6b
+oo5boo6bo3bo$14b3obboboboo5b9o5boobobobb3o$17bobbooboboo15booboboobbo$
+19boobo3boboo9boobo3boboo$26bobob9obobo$27b15o$29bo9bo$31bo5bo$30bo7bo
+$31booboboo$60bo12boo$54bo3b3o10booboboo$53b4o5b3o4bo4bobb4o$28boo4bo
+4boo11bo3bo5b3o3boo6bo4bo$32bo3bo13b3obo5bobboobboobbo7b3o$27bobbo7bo
+bbo6bobboobboboo7boo3bo$26bo7bo7bo5bo3bobo3boo7b3obobo8bo$27bo4bo3bo4b
+o6boo4bobobooboboobboboboboo4b4oboo$27bo3bo5bo3bo6bobboobo4bobobbo4bob
+oobbo3bobboboo$28boo9boo11booboboo3bo3boobb3o4b3obobobo$50bobbo12b4o7b
+oo$26b3o11b3o9boo12b3o4bobobbo$30bobo3bobo31bobo$32bo3bo$33bobo$27bo5b
+obo5bo$27bo5bobo5bo$28bo11bo$30b3o3b3o3$31boo3boo$31boo3boo$$40bo$39bo
+$39b3o$$31boo3boo$31boo3boo$$31boo3boo$31boo3boo3$38bo$36b3o$36b3o$35b
+oo$34boo$33bobb4o$33bo4boboo$36bo3boo$33bobboo$32bobbo3b3o$32bobo5bo$
+32b3o8bo$43bo$43bo$$39b3o4$8boboo$7boobooboo$6bobbobobbo$7bo5boo4boo$
+16booboo3bo3bo8b3o$16boo3bobo4bo8bobbo$16boo6bobb4obo4boobo$25bo3boob
+oo4bo$32bo5boo$27bo4bo5boo26bo11b4o$28bobbo6booboo16boo4b3obo8boboboob
+o$29boo7b3o18boobooboboobo3b3obbo4b3o$38b3obo15bo3bo4bo3boboboo6bo3bo$
+56bo4b3o4bob3obboo9boo$55boo3booboo7bobbobo8boo$43bo9boobboobobo3bo8bo
+boboo5boboo$53b3oboobobbo4b3obboboboboo4booboboo$54booboobobobbobobb4o
+bo4bo11bo$64bo6boo5bo3boobooboobo$57bo13bo3b4o3bo$49bo3bo4boo12bo10boo
+$50bobobo18bo$48bobo5bo$48b3obob3o$46boo5boo$$53boo$29boo$29boo3$32bo$
+31b3o$30boboboboo11bo$29boo3boboo10b4o$30boobobbo6bo3bo3booboo$32boob
+oobo3b4o5bobboo$32b4oboobbo3bo7bobbo$34b4o4bobobbo$46bo5$43bo$41b3ob3o
+$40boo6bo$35bo3bobbo3boo$34b4o$33bo3bo$34bobobbo$38bo!
+A period 90 c/3 spaceship with a large cloud of smoke.
+This smoke can be used to perturb forwards or backwards gliders into
+other useful objects.
+David I. Bell, October 1997

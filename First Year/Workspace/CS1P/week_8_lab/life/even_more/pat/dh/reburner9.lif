@@ -1,0 +1,25 @@
+#C p96 double diagonal block reburner
+#C Corderman block puffers produce (at 8c/96) 2 diagonal lines of blocks,
+#C which are reburned at 16c/342.  Each pair of blocks becomes 3 blocks
+#C and 3 blinkers.
+#C Dean Hickerson, dean@math.ucdavis.edu (1/28/2000)
+x = 137, y = 104
+53bo$39b2o7b2o2bobo$39b3o6b4o3bo$39b2obobo7bo$42b2o10bob2o$54bobo$55bo
+8b2o$64b2o6$31b3o18bo$32bo18bobo18b2o$32bo2bo15bo2bo17b2o$32bo2bo16b2o
+$33bobo$48b2o$48b2o3$41bo37bobo$40bobo22bobo10bo2bo$40bobo22bobobo7b3o
+$41bo22bo2b2obo4b5o$65b2o3bobob2obo19bo3b2o2b2obo$65b2o3b2ob5o19bo3b2o
+4bob2o$27b2o40bob2o3b2o19bo3b2o2b2ob2o$13bo13b2o39bobo30b2o$13b4o82bo
+2bo$13bo3bo81bobo17b2o$100bo18b2o$15b3o2$54b3o$35b2o17b3o$b3o31b2o18bo
+$b3o19b2o31b2o49bo$2bo19bo2bo31bo48bobo18b2o$3b2o18b2o31bo30bo18bo2bo
+17b2o$4bo82bo19b2o$3bo82bobo$64bo22b2o2bo11b2o$43b2o18bobo20bo5bo10b2o
+$43b2o19bo21bo5bo$b2o15b2o37bo28bo4bo$b2o15b2o35b3o32bo5bo38b2o$2bo51b
+ob2o29b3o5bobo24b3o6bo3b2o$2bo11b2o38bob2o37bobo23bo4bo3bobo$bobo9bo2b
+o38bobo38bo24bo4b2o3bo$o13bobo39b2o27b2ob2o31bo6bo$bo2b2o9bo74bo31b3ob
+o2bobo$2bo3bo74bobob2o39b5o$4b2o66bob3o4bobo3b3o41bo$4bo65b2obo4bo5bo$
+72b2o4bo2bo2bo$78bo2bo2bo$77bo4bo$73bo2bo$74b2o$90b2o$6b2o82b2o$6b2o
+70b2o29b3o$77bo2bo$56b3o19b2o33b2o$115bo$60b2o47b4obo$62bo46b5o5bo$56b
+4obo36b2o18bobo$14b2o40b5o37b2o19bo$14b2o57b2o34bobo$73b2o34bobo$56bob
+o51bo$56bobo10b2o38bobo$57bo10bo2bo38b2o$56bobo10bobo38bo$57b2o11bo35b
+2o$22b2o33bo48b2o$22b2o7$30b2o$30b2o29b2o$61b2o4$62bo$61b2o$38b2o20b2o
+$38b2o21bo$62bo6$46b2o$46b2o!
+

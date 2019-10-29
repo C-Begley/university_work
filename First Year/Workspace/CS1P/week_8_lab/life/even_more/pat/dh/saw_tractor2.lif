@@ -1,0 +1,34 @@
+#C Orthogonal sawtooth with expansion factor 6
+#C Population is unbounded but does not tend to infinity.  Its graph is
+#C a sawtooth function with ever-increasing teeth.  More specifically,
+#C the population in generations  t  near  28*6^n  is about  t/5  if
+#C t  is odd and about  3t/20  if  t  is even, but the population in
+#C generation  14*6^n - 84  (n>=2)  is only 610.  (Even more
+#C specifically, the population in generation  t = 28*6^n + 12  (n>=1),
+#C is  3t/20 + 603;  it rises to  t/5 + 647  in the next generation.)
+#C
+#C This uses a spark from a period 4, speed c/4 orthogonal spaceship,
+#C found by Hartmut Holzwart, to turn 2+1/2 pairs of LWSSs into a loaf,
+#C which is then pulled back by subsequent pairs of LWSSs. When the
+#C loaf is pulled all the way back, it gets deleted and the cycle
+#C begins again.
+#C Dean Hickerson, dean@math.ucdavis.edu (8/14/92)
+x = 114, y = 74
+50b2o21bo$51bo19bobo$51bobo8bo2b2o3bobo$52b2o7b2o2bo3bo2bo14b2o$60b2o
+8bobo14bobo$47bo11b3o9bobo16bo11bobo$45bobo12b2o11bo13bo2bo10bo2bo$35b
+2o6b2o16b2o27bo9b2o$34bo8b2o17bo24bobo8b2o3bo9bo$33bo5bo3b2o42b2o11b2o
+10b2o$23bo9bo5b2o4bobo7b2o44bo2bo$23b2o8bo6bo6bo7bobo44bobo$34bo22bo$
+35b2o20b2o8$29bobo$29bo2bo$20b2o10b2o11b2o$20bo9bo3b2o8bobo$32b2o9bo$
+29bo2bo10bo2bo16b2o12bob2o$29bobo11bo19b3obo8b3obob3o$44bobo5b2o9bo4bo
+b2o3bo10bobo$2o23bo19b2o5bobo8b2o3bob4o3bo5b2o4b2o$bo23bobo26bo7bob4o
+5bob3o4bo2b2obo$bobo4b2o18b2o4b2o18b2o5b3o13bo4bo$2b2o6bo17b2o5bo26bob
+4o5bob3o4bo2b2obo$11bo16b2o33b2o3bob4o3bo5b2o4b2o$11bo13bobo35bo4bob2o
+3bo10bobo$11bo13bo37b3obo8b3obob3o$10bo52b2o12bob2o$8b2o$3b2o$3bo6$34b
+2o2b3o2b2o11b2o$34bo2b5o2bo10bobo$2obob2o28b9o11bo$o5bo25b3o9b3o7b2o$b
+o3bo26bo2bo7bo2bo$2b3o3bo24b2o9b2o$8b2o40b2o$7bobo40bo$43bo4bobo$32bo
+9bobo3b2o$26bobo2b2o9b2obo$25bo2bo2bobo8b2ob2o$24b2o16b2obo$5bo16b2o3b
+o14bobo$5bo18b2o17bo$4bobo11b2o5bo2bo$3b2ob2o9bobo6bobo$2bo5bo8bo21bo$
+5bo10b2o20b2o$2b2o3b2o18b2o8b2o4b2o5bo$27bo8b3o4b2o3bobo29bo$37b2o4b2o
+2bobo30bobo$38b2o6bo2bo16b2o15b2o4b2o$39bo7bobo16bo16b2o5bo$48bobo12b
+2o18b2o$50bo11b3o15bobo$63b2o15bo$6bo59bo$5b2o59b2o!
+

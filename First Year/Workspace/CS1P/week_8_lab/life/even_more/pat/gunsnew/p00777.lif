@@ -1,0 +1,26 @@
+#C p00777 found using Karel Suhajda's Hersrch program using the -d 
+#C switch for open tracks - Scot Ellison - 09 Sept 2003
+x = 133, y = 105, rule = B3/S23
+34boo$34boo9$19boo$19boo7$11boo$11bo$9bobo5boo$8bobo6boo20boo$4boo3bo
+29bo$4boo34b3o$oo40bo$bo$bobo$bboo5$29boo4boo$29boo4boo78bobbobbo$112b
+obb7o$112b3o$116b4o$30boo82b3obobo$30boobboo77bo4bobo$34bobo75bob3obob
+oo$36bo59bo15bobo5bo$6boo8bo19boo56b3o14boobb4obo$7bo7bobo75bo19bobobo
+bbobo$4b3o7booboo74boo7bo10bobobbooboo$4bo9bobbo60boo22b3o7boobobobo$
+13bo3bo61bo25bo8boboobo$17bo61bobo22boo8bobobooboo$80boo10bo20boobo3bo
+bo$22boo67bobo13bo3bo5b3o$22bobo66bobo12bobobbob3o$24bo67bo4boo3boobb
+oo3bo4b4o$24boo54boo15bobobboo9boobobbo$79bobo17bo14bo$79bo19boo13bobo
+$78boo35boo4$15bo$14boo$89boo$5boobo80boo$5boboo113boo5boo$122boo5bo$
+127bobo$25boo100boo$25bo97boo$23bobo97bobo$23boo99bo$$125bo$9boo114bo$
+8bobo$8bo114bo3bo$7boo90booboo17b3o3b3o$100bobobo15bo3b3o3bo$100bo3bo
+15boboo3boobo$97booboboboo9boobooboboboboboboo$72boo23boboboo8boobboob
+obbobobobobobbo$72boo25bo3boobboobobo6boobo5boboo$57bo41b4o8bo8bo3bobo
+3bo$12boo29bo13b3o37boo3boboo14bo9bo$13bo27b3o16bo35bobboobobo8boo3bob
+oobb3obboobo$10b3o27bo18boo35boobo4bo8bo3bobo3bobobo3boo$10bo29boo57bo
+boboboo7b4o3b3o3b3o$92boo5bobobobo12b3o9b3o$92bobobboo4bobo10bobobbo7b
+obbo$94bo3boboobobboo6b3obobo4bo4boo$94boobbobo3bobo6bo4boboobb3o$83bo
+13boobboboobo4b3oboobbo3bobobo$83bo14bobo4bo4bo4boboobb3o3b3o$50boo29b
+oboo13bo3b3o5boboobo3boo3boo4bo$50boo28boo3bo13boobo6boobob3obobboboob
+4o$73boo9bobo17b3obbobbo5boobobbobo$73bobo7bobbo10b7obbo4boobb3o4bobo
+bbo$75bo8boo11bobbobbo8bobobbob4ob3o$13boo48boo10boo35bobbobbo4bo$13b
+oo48bo49boo5boobbo$19boo32boo9b3o52booboo$19boo33bo11bo$53bo$53boo$17b
+oo24bo$17boo5boo18bo$24boo16b3o!

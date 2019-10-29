@@ -1,0 +1,14 @@
+#CA spaceship-like object (actually a fuse) that consumes a
+#Cdiagonal line of cells at c/4. No mechanism is known that
+#Ccan create the line fast enough.
+#CHartmut Holzward, 19 Mar 04
+x = 88, y = 88, rule = B3/S23
+oo$obo$3bo$4bo$5bo$6bo$7bo$8bo$9bo$10bo$11bo$12bo$13bo$14bo$15bo$16bo$
+17bo$18bo$19bo$20bo$21bo$22bo$23bo$24bo$25bo$26bo$27bo$28bo$29bo$30bo$
+31bo$32bo$33bo$34bo$35bo$36bo$37bo$38bo$39bo$40bo$41bo$42bo$43bo$44bo$
+45bo$46bo$47bo$48bo$49bo$50bo$51bo$52bo$53bo$54bo$55bo$56bo$57bo7bo10b
+oo$58bo5b5o6boo$59bo4bobboo8bo7boo$60bo5boobo5boo6b3obo$61bo13boo3bob
+oo$62bo6bobo6boo$63bo10b3obo4bo$64bo6b3o3bo4bo$65bo6bo7bo$66bo5bo6bo$
+67bo$68bo6bo$69bo$70bobboo$71bobbo$72boobo$74bo$74b3o$71boob3o$70boobb
+3o$71bo$68bobb3o$67b4o$67bobboobbo$68bobooboo$73bo$65b3o5boo$65boo4bo
+bbo$64bobooboo$64bobboobo$65bo4bo$68boo!

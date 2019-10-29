@@ -1,0 +1,31 @@
+#CShows how to triple the period of any c/2 rake,
+#Cwhose period is not a multiple of 6.
+x = 144, y = 183, rule = B3/S23
+49bo$46b4o$46boo$44bo$44b6obo$41bobo7bo$31bo8b6oboo$28b4o7boo5boo$28b
+oo8boo4boo4bo$26bo12boo4b4obo$26b6obo$23bobo7bo5boo4b4obo$22b6oboo7boo
+4boo4bo$21boo5boo9boo5boo$20boo4boo4bo7b6oboo$21boo4b4obo8bobo7bo$44b
+6obobo5b3o$21boo4b4obo11bo10bo3b3o$20boo4boo4bo12b5obo3bobo$21boo5boo
+16bo4bo3bo3b3o$22b6oboo16boo4bo5b3o$23bobo7bo14bobbo$26b6obobo4bo8bobo
+bbo$26bo10boboboo9bobo$27b5obo3bo3bo$28bo4bo3boboboo$29boo4bo4bo$30bo
+bbo$31bobobbo$34bobo$42boo$20boo19bobo$19b4o20bo$bboo14booboo$b4o14boo
+$ooboo22boo$boo23bobo$28bo$6bo$8bo$4boobbo3bo$3bo5bob3obbo$bboobbobobb
+5obo$3boo3bo5booboo$4b3o7bobbo$$15boo$bboo$b4o4b4o$ooboo4bo3bo$boo6bo$
+10bobbo34$50bobo$49bobbo$48boo$47bo$46b4o$45bo4bo$45bobbo$45bobbo$46bo
+$47b4obo$48bo3bo$49bo$49bobo$$48b3o$48boo$48b3o78bobo$128bobbo$49bobo
+75boo$49bo76bo$48bo3bo72b6obo$47b4obo69boo7boo$38bobo5bo74bo3b3oboo$
+37bobbo4bobbo71bo3bo4boo$36boo7bobbo71bo5bo3boo$35bo3bo5bo4bo69b3o3b4o
+bo$34b3obo7b4o$31boo14bo72b3o3b4obo$30bo3b5o9boo70bo5bo3boo$29bo3bo15b
+obbo67bo3bo4boo$29bo5boo13bobo68bo3b3oboo$29b3o3b4o83boo7boobo7bo$30bo
+7bo13boboo69b6obobo6bobo$30boo20bo73bo7boboboboobo$30bobo19boobo71b4ob
+o3boobbo$30boobboobo8bobo6bo12bobo56bo3booboboboboobo$31bob3obo3bob4ob
+obo6bo4b3obbo61boo3bo6bobo$38booboboobbobbo5bobb3obboo4bo58b4obo7bo$
+33b6oboo3b4obobo3bo6boobobo63b4o$34bo4b3o6bo3b3obo9bobo66bo$35boo5boo
+bboobbobo3bo6boobobo$36bobbo5b4obo5bobb3obboo4bo$37boboboo5bobo6bo4b3o
+bbo$55bo12bobo$52boobo$52bo$52boboo$$50bobo$49bobbo$43bobobboo$40b4obo
+$40boo3bo$38bo3boo19bo$38b4obobo16boo$35bobo7bo16bobo$34b6o5boo$33boo
+5bo5b3o$32boo4bo9bo9bo$33boo3boo17boo$39b3o15bobo$31b4o6bo$30boo3bo$
+29bobboo19bo$29b3obobo16boo$28bo6bo16bobo$27b3o5boo$26b3obbo4b3o$27bo
+10bo9bo$28b4o15boo$28bo18bobo$30boo$30b4o$33bo9bo$42boo$42bobo$$3boo$
+bb4o4b4o24bo$booboo4bo3bo22boo$bboo6bo26bobo$11bobbo$$15boo16bo$5boo8b
+oo15boo$4bobbo5bo3bo14bobo$3boobbo4bo3bo$4boobbobbo4bo$5b4o3bobo13bo$
+27boo$27bobo$3boo$bb4o$booboo$bboo15boo$18booboo$19b4o$20boo!

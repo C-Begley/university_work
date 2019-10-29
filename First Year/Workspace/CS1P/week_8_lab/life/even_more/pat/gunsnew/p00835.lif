@@ -1,0 +1,56 @@
+#C p00835 found using Karel Suhajda's Hersrch program
+#C Scot Ellison - July 25, 2003
+#C 64 125 77 77 116 64 176 125 125 125 222 65 190 119
+#C
+#C p00838 found using Karel Suhajda's Hersrch program
+#C Scot Ellison - July 25, 2003   
+#C 64 64 77 158 119 119 153 125 125 125 158 116 77 119 77
+#Cx = 191, y = 88
+#C105bo4$109bo42bo$37bo14boo55bo40b3o$35b3o14bo24boo30bo7boo17bo12bo$34b
+#Co18b3o6boo13bo39bo7boo7b3o12boo$11bo22boo19bo6boo11bobo37bobo8bo6bo$
+#C11b3o61boo38boo9bobo4boo34bo$14bo112boo16bo21b3o$13boo80bo49boo19bo$
+#C86boo5b3o48bobo6boo11boo14boo$86boo4bo60boo27boo$92boo39bo$44boo85boo$
+#C44boo85b3obboo50boo$91boo37bo5boo50boo$oo84boo3boo38bo4bo47boo$oo84boo
+#C43bo3bo48boo$133bo6boo$138bobbo$47boo89bobo$48bo140boo$45b3o13boo3boo
+#C121boo$45bo6bo9bo3bo$50b3o6b3o5b3o69boo$49bo9bo9bo69bo$9boboo36boo82b
+#Coobo3b3o9boo$7b3oboo120boob4obbo8bobo$6bo17boo48boo63bo11bo$7b3oboo11b
+#Coo48boo30boo13boo6boobboob3o11boo$9bobo94boo3boo7bobo6bo4bobo18bo$9bob
+#Co99boo7bo9b4obbo18b3o$10bo108boo7bobobbobo22bo$62boo64boo4bo22boo$62b
+#Coo8bo39boo$72b3o31boo4bo25bo$75bo30boo5b3o22b3o$74bobo38bo25bo$75bo64b
+#Coo11boo$95boo56boo35bo$11bo83bobo22bo67bobo$11b3o62boo19bo22b3o5boo59b
+#Coo$14bo61boo19boo24bo4boo$13boo36boobo25boo40boo$51boob3o24bo$17boo19b
+#Coo17bo20b3o80boo21boo$17boo19boo11boob3o21bo44boo35bobo21boo$52bobo68b
+#Coo3boo30bo17boo$15bo36bobo73boo29boo17boo$15bo37bo$oo13bo$oo9boo167boo
+#C$10bobo57bo39bo62boo5boo$9b3o4bo8boo43b3o37b3o60boo$11bo4b3o6boo46bo
+#C39bo40boo$16bobbo52boo38boo40bobo$17bobbo21bo113bo$21bo20b3o7boo39bo
+#C62boo$17b4o24bo6bo40b3o$19bo24boo4bobo43bo43boo$9boboo37boo43boo11boo
+#C30boo$7b3oboo95boo$6bo17boo$7b3oboo11boo$9bobo$9bobo131bo$10bo130b3o$
+#C140bo$139bobo$140bo$119boo$118bobo$118bo19boo$117boo19boo$134boo$87boo
+#C45bo$38boo41boo5bo20boo24b3o$39bo41bobob3o21bobo25bo$36b3o3boboo28boo
+#C7bobo25bo$36bobb4oboo28boo7boo26boo$39bo$40b3oboobboo6boo$42bobo4bo6bo
+#Cbo$42bobb4o9bo$43bobobbobo7boo$44bo4boo!
+x = 157, y = 101, rule = B3/S23
+119boo$116boobbo$31boo32boo47b3oboo$31boo32boo46bo$110bobb4oboo$110b3o
+3boboo$113bo$112boo26boo$43bo33bo22bobbo36bo$42bobo31bobo21bobbo34bobo
+$42bobo31bobo19boobooboo32boo$41boob3o28boob3o19bobbo$47bo33bo18bobbo$
+21boo18boob3o8boo18boob3o17boobooboo$22bo18boobo11bo18boobo21bobbo$22b
+obo31bobo41bobbo38boobo$23boo32boo29boo52boboo$89bo$89bobo43boo$90boo
+43boo5$118boo3boo$110boo7bo3bo$43boo32boo31boo4b3o5b3o$43boo32boo37bo
+9bo$21boo103bobo$21boo104boo3$20bo$19bobo124bo$20bo123b3o$17b3o85bo37b
+o$17bo85b3o7boo28boo$102bo11bo$101bobo10bobo$85boo15bo12boobboo$26boo
+32boo23boo32boo$26boo32boo42bo$92b3o6bobobo$94bo6boobbo$35boo56bo11boo
+7boo4boo$35boo77boo4boo$oo82bo$oo81bobo$85bo$74boo9bo9boo$34boo38boo4b
+o7bo6boo14bo35boo$34bo5boo41bo4bo22b3o33bobo$30boo3b3obobo38bo3booboo
+13boboo8bo34bo$30bobo4bobo18boobo11boo10boo15boobo7boo34boo$32bo5boo
+18boob3o10bo7bo3bo58boo$32boo30bo6b3o8bo3boo53bo3boo$34bo23boob3o7bo
+12bobbo44boo6bobo$5boo25b3o24bobo22b3o45boo5bobo$6bo24bo27bobo36boo39b
+o$3b3o25boo27bo37bobo37boo$3bo70boboo22bo$74boobo22boo43bo$9boo19boo
+111b3o$9boo19boo110bo$48boo56boo34boo$48boo56boo$95boobo$95boob3o$12b
+oo87bo$11bobo73boo6boob3o10boo$11bo75bo8bobo12boo$10boo76b3o5bobo8boo
+46boo$90bo6bo9boo46boo$49boo7boo$17boo29bobo7boo43boo$18bo27b3obobo27b
+o23bo8boo$15b3o27bo5boo25b3o23bobo6boo$15bo29boo30bo27boo$77boo$$97bo$
+95b3o46boobo$79bo14bo49boob3o$78boo14boo35boo17bo$77boo52boo11boob3o$
+78bo66bobo$79bo65bobo$81bobo62bo$83bobo$18boo21boo39b5o$18boo21bobo41b
+oo$24boo17bo40b3o$24boo17boo42bo18boo$87b3o16boo11boo$75boo8bobo31bo$
+22boo47boobbobboo5bo34b3o$22boo5boo41bo3boboo42bo$29boo29boo10bobobo$
+60bo12booboboo24bo$61b3o12bobbo4boo19bo$63bo12boo6boo17b3o!

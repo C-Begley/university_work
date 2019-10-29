@@ -1,0 +1,22 @@
+#C p333 based on Karel Suhajda's p999
+#C Scot Ellison - May 14, 2003
+x = 131, y = 80, rule = B3/S23
+111boboo$45bo39bo25boobo$45b3o37b3o$23boo23bo39bo20b5o$20boobbo22boo
+38boo20bo4bobboo$20bo3bobo85bobbobbo$21b3obobo40bo43boobobo$23bo3bo40b
+3o38bo5boboo$19b3obo3boboo40bo36bobo4bo$18bobbobo3boboo39boo11boo23bo
+bbobboo$18boobboobobo55boo24boo$26boo$$9boo105boo$10bo104bobbo$10bobo
+100bobbobo$11boo100bo3bo$113bo$116bo$95boo17boo$96bo$93b3o$93bobb3oboo
+$95bobbobobo$21boo39boo32bobobbo$21boo33boo5bo20boo9boobo9b3o$23bo32bo
+bob3o21bobo7bo3boo8boo12boo$21b3o25boo7bobo25bo8bobobbobo6bobo10bo$20b
+obo26boo7boo26boo6booboobboo8bo8bobo$21boo89boo6booboo$20bo89bobo10bob
+o$20bo89boo11bobo$18bo81boo20booboo$bbo98bo$bb3o96bobo18booboo$5bo96b
+oo18boobobo$4boo121bo$127boo$51boo72bobobbo$29bo21boo72boobboo$27b3o
+73boo$26bo37boo38bo$26boo36bo36b3o$oobboo56bobo36bo$obbobo56boo$bboo$
+3bo121boo$3boboboo18boo38boo56bo$4booboo18bobo37boo7bo49b3o$29bo44b3o
+51bo$4booboo20boo42bo26bo$5bobo65boo25b3o$5bobo95bo$6booboo70boo19boo$
+8bobo70bo15bo$8bo31boo24bo12bobo15b3o$7boo31bo21b3obobo10boo19bo$38bob
+o20bob4ob3o28boo$37bobo21boo4bobo$33boo3bo23boobboobo$33boo28bob3obo$
+64boobbo$65b3o$96boo$45boo49boo17boo$45boo68boo3$57boo8boo47boo$57bo5b
+oobboo47bo$58b3obobo38boo12b3o$14boo21boo21bobo41bo14bo$14boo21bobo15b
+oo4boo38b3o$20boo17bo9boo4bobo43bo$20boo17boo8boo6bo$57boo$$18boo74bo$
+18boo5boo68bo$25boo66b3o!

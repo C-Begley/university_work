@@ -1,0 +1,52 @@
+#CA collection of period 100 rakes.
+#CThe top three rakes are backwards p100 rakes, the next two rakes are
+#Cforwards p100 rakes, and the final rake is a p100 sideways LWSS rake.
+#CThe topmost forwards and backwards rakes were found by Paul Callahan,
+#Cthe others were found by David Bell.
+#CDavid I. Bell, December 1996
+x = 122, y = 381, rule = B3/S23
+79b3o$78b5o$11b4o62boob3o$bboo6b6o62boo7b3o$b4o4boob4o23boo45b5o$ooboo
+5boo12bo13bobbo43boob3o$boo18bobo15boo5boo38boo$20boo24bo3boo17boo$19b
+o4bo18bo8bo5b3o8boo$18boo4bo3bo13bobo4bobbo$11boo6bobooboo4bo11boo6bo
+3bo24boo$3boo7bo6bobo3boobobo23bo24boo$bboo5bobbo7bo4bo4bo17boobbobo9b
+oo$3boo4b3o7bobo4bobo11bo7boo14boo$4bo3boo9bobo4bo11booboo57bo$20bo18b
+obbo58boo$40boo58boo$bboo73boo$b4o71boob3o$ooboo72b5o$boo75b3o4$22boo
+35b4o$21b4o33b6o$20booboo32boob4o$21boo35boo28$54bo$52bo3bo$51bo$51bo
+4bo$51b5o$$64boo$11b4o48boob4o$bboo6b6o48b6o$b4o4boob4o23boo24b4o$oob
+oo5boo12bo13bobbo$boo18bobo15boo$20boo23b3ob3o$19bo4bo21boobbobo5b3o$
+18boo4bo3bo$11boo6bobooboo4bo17bobo3bo$3boo7bo6bobo3boobobo9b3o4b8o$bb
+oo5bobbo7bo4bo4bo11b3obboo4bo$3boo4b3o7bobo4bobo14boobbo$4bo3boo9bobo
+4bo9boo$20bo13boobbo$34bobb3oboo$bboo30bo4bobboo10b5o$b4o30b5o14bo4bo$
+ooboo32boo15bo$boo52bo3bo$57bo3$24boo$22bo4bo$21bo$21bo5bo$21b6o7$90bo
+$91boo$90boo24$22boo29boo$20bo4bo25bo4bo$19bo30bo$19bo5bo8b3o13bo5bo4b
+4o$19b6o8b5o12b6o4b6o$32boob3o21boob4o$33boo25boo$bboo$b4o$ooboo$boo
+21b3o$23bobbo$27boobbo$13boo7boobboo$12bobbo4bobo8boobo$3boo14b3obb5ob
+oboobo23boo8boo$bboo5bo5bobbobobobboobo4boboo22bo9boo$3boo4bo4bobo6bo
+8boobo$4bo3bo5b3o16boo22bo$11bo3bo5bo34boo$17boo4bobbo28boobo4b3o$bboo
+20boo29b3o$b4o6b4o41bobbo$ooboo5b6o41boo$boo6boob4o$10boo43b4o38bo$54b
+6o38bo$44boo7boob4o36b3o$33boo8boob4o4boo$32boob4o5b6o$33b6o6b4o$34b4o
+22$106bo$104bo3bo$103bo$103bo4bo$103b5o8$92bo$91b3o$91b3o$$91b4o$90b5o
+$90boobo4$51boo$50boob3o$51b5o$52b3o$$11b4o$bboo6b6o$b4o4boob4o23boo
+47bo$ooboo5boo12bo13bobbo45bobo$boo18bobo15boo5boo39bobbo$20boo24bo3b
+oo17boo17boo$19bo4bo18bo8bo5b3o8boo$18boo4bo3bo13bobo4bobbo$11boo6bob
+ooboo4bo11boo6bo3bo$3boo7bo6bobo3boobobo23bo37boo$bboo5bobbo7bo4bo4bo
+17boobbobo9boo25bobbo$3boo4b3o7bobo4bobo11bo7boo14boo23bo4bo$4bo3boo9b
+obo4bo11booboo45b6o$20bo18bobbo44boobo$40boo46bobo$bboo85boo$b4o$ooboo
+$boo4$22boo22bo$21b4o19bo3bo$20booboo18bo$21boo20bo4bo$43b5o5$120bo$
+119bo$119b3o25$81boo$48boo29bo4bo$46bo4bo26bo$45bo32bo5bo$45bo5bo26b6o
+$45b6o$$88boo$11b4o44bo27boob4o$bboo6b6o42bobo27b6o$b4o4boob4o32b3o6bo
+bbo28b4o$ooboo5boo39bo6boo$boo44bo4bo$29boo16bo5bo25boo$19bo9boo18boob
+o15b3o8boo$16bobbo30bobo$11boo6bo$3boo7bo38bo$bboo5bobbo6bo4boobb3oboo
+4boo$3boo4b3o5bobo4boobb3ob3o5bo$4bo3boo8bo10bobbo$29bobo15b3o$30b3o
+14b4o$bboo27bo15b4o3b5o$b4o40boo7bo4bo$ooboo40b3o6bo$boo42boo8bo3bo$
+57bo$88bo$86boo$24boo61boo$22bo4bo12boo$21bo17boob3o$21bo5bo12b5o$21b
+6o14b3o19$113bo$111boo$112boo14$33boo$31bo4bo$30bo$21boo7bo5bo$20boob
+4o3b6o12bo$21b6o19bo3bo$22b4o19bo$11b4o30bo4bo$bboo6b6o29b5o34bo$b4o4b
+oob4o42b5o19bo3bo$ooboo5boo46bo4bo17bo$boo55bo22bo4bo$29boo28bo3bo17b
+5o$19bo9boo30bo$16bobbo$11boo6bo19bobo$3boo7bo26bobbo5b3o18boo$bboo5bo
+bbo6bo4boobb3oboo4bo4bo3bo21boo3boo5boo$3boo4b3o5bobo4boobb3ob3obboo5b
+obo5bo21boo5boo$4bo3boo8bo10bobbo3bobobobbo5bobbo$29bobo4bo3boo6bo3bo$
+30b3o3boo3bo6boboob3o$bboo27bo5bo6bobboboobo31b6o$b4o42b3oboo4bo26bo5b
+o$ooboo39bobo3boobbobbo26bo$boo42boo3boboo3bo27bo4bo$16b6o28boo4bo30b
+oo$16bo5bo25boo5bo$16bo31bo$17bo4bo26bobo$19boo3$67b4o$66b6o$65boob4o$
+66boo12$101boo$100b3o$100boobo$101b3o$102bo!

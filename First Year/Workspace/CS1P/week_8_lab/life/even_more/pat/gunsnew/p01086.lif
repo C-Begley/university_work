@@ -1,0 +1,21 @@
+#C p1086 gun
+#C replaced 77-64 Herschel track with slim 77 and 7x9-eater 64, DE 03/12/03
+x = 137, y = 96, rule = B3/S23
+69bo27bo20bo$68bobo5boo17b3o11bo7bobo$68bobo5boo16bo14b3o6bo$53boo11b
+3oboo22boo16bo16bo$46boo5boo10bo45boo14b3o$46boo18b3oboo54bo$68boboo
+54boo$$48boo74bo$48boo73bobo$42boo60boo14b3obo6boo$42boo60boo14b3o8bo$
+129bobo$129boo$$121b3o$116boo$73boo32boo6bobo3boo$73boo11boo20bo6bo$
+86bo20bo6boo$87b3o17boo$89bo$57booboo$39bo16bobobobo$39b3o15bobbobo$
+42bo17boboo54boo$20bo10bo9boo16boo3bo52bobo$20b3o6b3o24bobobbobo53bo$
+23bo4bo27boobbooboo51boo$bboo18boo4boo6boo$3bo31bobo$3bobo30bo25boo$4b
+oobboo52bo$8boo50bobo$60boo74bo$134bobo$135boo6$53boo$53boo71boo$bboo
+113boo7boo$bobo16boo26boo68bo$bo18bobo25boo68bobo$oo20bo90boo4boo$16b
+oo4boo90bo20boo$16bobo68boo25bobo18bo$18bo68boo26boo16bobo$9boo7boo
+113boo$9boo71boo$82boo$$oo$bo$o$oo$104boo$oo102boo$obo72boo$bo72bobo
+50boo$74bo52boobboo$73boo25bo30bobo$99bobo31bo$99boo6boo4boo18boo$19b
+oo51booboobboo27bo4bo$19bo53bobobbobo24b3o6b3o$17bobo52bo3boo16boo9bo
+10bo$17boo54boobo17bo$74bobobbo15b3o$74bobobobo16bo$75booboo$47bo$28b
+oo17b3o$21boo6bo20bo$21bo6bo20boo11boo$19bobo6boo32boo$19boo3$6boo$5bo
+bo$5bo25boo60boo$4boo25boo60boo$87boo$87boo$$9boo54boobo$10bo54boob3o
+18boo$7b3o14boo45bo10boo5boo$7bo16bo16boo22boob3o11boo$18bo6b3o14bo16b
+oo5bobo$17bobo7bo11b3o17boo5bobo$18bo20bo27bo!

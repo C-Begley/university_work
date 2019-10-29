@@ -1,0 +1,11 @@
+#C p16 big S reburner, by Jason Summers (2/1/2000)
+#C A p16, speed c/2 puffer produces 14-bit still lifes called "big S"s.
+#C They burn at 48c/136, producing a mess.
+x = 68, y = 32
+27b2o$25bo4bo$9b2o13bo$8b2ob4o9bo5bo$9b6o9b6o$b4o5b4o$bo3bo$bo$2bo$4b
+2o15b2o$8b3o9bobo8bo$b2o3b2o3bo10bo8bobo$2ob3obo2bo20b2o$b9o$2b4o29bo$
+21b6o8bobo$21bo5bo7b2o$10b6o5bo$10bo5bo5bo4bo11bo$10bo13b2o13bobo3b2o
+6b2o6b2o$11bo4bo13b2o7b2o4bobo5bobo5bobo$13b2o14b4o14bo7bo7bo$28b2ob2o
+10b4o4b4o4b4o$29b2o11bo7bo7bo7b2o$42bobo5bobo5bobo4b2o$37bo5b2o6b2o6b
+2o5b2o$33b6o28bo$28b8o3bo$28bo8b2o$28bo6b3o$29bo5b2o$31b2o!
+

@@ -1,0 +1,8 @@
+#C"Dragon"
+#CFirst known c/6 spaceship
+#CPaul Tooke, April 2000
+x = 18, y = 29, rule = B3/S23
+5bo6bo$4bobo4bobo$4bobo4bobo$5bo6bo$$4b3o4b3o$4b4obb4o$7bobbo$4b3oboob
+3o$4boo6boo$3boo8boo$$bbo12bo$obbo10bobbo$obbo10bobbo$$3b3o6b3o$3bo10b
+o$5bo6bo$3b3o6b3o$$6boboobo$7bobbo$3boboobooboobo$3b3o6b3o$$3bobo6bobo
+$3bobo6bobo$b3ob3obb3ob3o!

@@ -1,0 +1,34 @@
+#C Diagonal sawtooth with expansion factor 4
+#C Population is unbounded but does not tend to infinity.  Its graph
+#C is a sawtooth function with ever-increasing teeth.
+#C
+#C A p960 gun sends gliders southwest.  Some are deleted; the others
+#C reflect off the backs of 2 Corderships.  Each returning glider
+#C deletes 2 outgoing ones.
+#C
+#C Note the use of an in-line inverter found by David Bell.
+#C
+#C This was built by David Bell (8/29/92; revised 8/16/93)
+#C (header written by Dean Hickerson, 1994)
+#C (8/29/99:  This should be rebuilt using a more compact p960 gun and
+#C            a smaller Cordership.)
+x = 168, y = 306
+13b2o$13bo2bo2$17bo2$15b2o$14bo3$11b2o3b2o$11b2o3b2o$12b5o$13bobo2$13b
+3o2$2bo6bo$b2o6b2o$3o6b3o$b2o6b2o$2bo6bo103$141b2o$141bobo$132b2o2b2o
+6bo11bobo$132b2obo2bo2bo2bo10bo2bo4bo$136b2o6bo9b2o5b2o$141bobo8b2o3bo
+8b2o$141b2o11b2o10b2o$146bo8bo2bo$144b2o10bobo$131b2o12b2o$131bobo$
+131bo4$137bobo$137b2o$138bo3$126b2o$126bobo$117b2o2b2o6bo11bobo$117b2o
+bo2bo2bo2bo10bo2bo4bo$121b2o6bo9b2o5b2o$126bobo4b2o2b2o3bo8b2o$126b2o
+11b2o10b2o$131bo8bo2bo$129b2o10bobo$130b2o$108bobo2bobo$104b2obo2bo2bo
+2bob2o$108bobo2bobo2$136b3o$135bo3bo$134bo5bo2$133bo7bo$133bo7bo2$134b
+o5bo$135bo3bo$136b3o68$46b2o$46b2o$50b2o$51b2o$51bo$51b2o$50b2o2$38b2o
+11bo$38b2o9b3o$52bobo$50bo3b2o$54bo2$50b3o2$30b2o$30b2o4$65bo$64b3o$
+34bo$22b2o5b3obob4o23bo3bo4bobo$22b2o8b2obo26bo4b2ob5o$30b2o4b2obo22bo
+2bobo2bo3bo$41bo25bo$39b2obob2o30b2o$41b2obo32b2o$43bo33bo$77b2o$76b2o
+$46bo$43b3ob2o28bo$41b2ob3o28b3o$45bo32bobo$23bo52bo3b2o$44bo35bo$18bo
+b2o22bo$18bobo6bo16bo31b3o$17bo4b2o3bo14bobo$18bo8bo15bo$18bo7bo$31b3o
+$22bo9b2ob2o$32b2obo9bo38b2o$32bobo10b2o37b2o$32bobo11bo$33b2o8bobo$
+35bo6bo2bo$32bobo7bobo$31bo10bobo$43bo$76b2o$33bo3bo38b2o$29bo3bo$35bo
+$34b2o2$31b2ob2o$33bo$68b2o$49bo18b2o$58b3o$44bob2o10bobo$44bobo6bo2b
+2o2bo$43bo4b2o3bo2b3o$44bo8bo2b3o$44bo7bo2$48bo!
+

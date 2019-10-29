@@ -1,0 +1,36 @@
+#C Irrational 5
+#C Population growth is linear with an irrational multiplier.
+#C Each middleweight spaceship produced by the puffers either hits a
+#C boat or is deleted by a glider.  Denoting the first possibility by
+#C 1 and the second by 0, we obtain a sequence beginning 101011011010...
+#C If we prepend 101, we obtain the Fibonacci string sequence, defined
+#C by starting with 1 and then repeatedly replacing each 0 by 1 and each
+#C 1 by 10:  1 -> 10 -> 101 -> 10110 -> 10110101 -> ...  (See Knuth's
+#C "The art of computer programming, vol. 1", exercise 1.2.8.36 for
+#C another definition.)  The density of 1's in this sequence is
+#C (sqrt(5)-1)/2,  which implies that the population in gen t is
+#C asymptotic to  (8 - 31 sqrt(5)/10) t.  More specifically, the
+#C population in gen  20 F[n] - 92  (n>=6)  is 98 F[n] - 124 F[n-1] + 560,
+#C where  F[n]  is the n'th Fibonacci number.  (F[0]=0,  F[1]=1,  and
+#C F[n] = F[n-1] + F[n-2]  for  n>=2.)
+#C Dean Hickerson, dean@math.ucdavis.edu (5/12/91)
+x = 147, y = 64
+8b2o$7b4o4b4o$6b2ob2o4bo3bo$7b2o6bo112bo$16bo2bo109bo$125bo3bo$20b2o
+104b4o13b4o$10b2o8b2o120bo3bo$9bo2bo5bo3bo123bo$8b2o2bo4bo3bo99bo23bo$
+9b2o2bo2bo4bo97bobo$10b4o3bobo100b2o$137b2o3b2o$135bo6bobo$8b2o106bo
+17bo2bo6bo$7b4o103bobo16b2o7b3o$6b2ob2o15b2o43bo43b2o17b2o$7b2o16b4o
+43bo$24b2ob2o39bo3bo$25b2o42b4o14b4o20bo$51bo34bo3bo18bobo24b2o5b4o$
+52bo37bo19b2o22b2ob2o3bo3bo$34b2o11bo4bo36bo44b4o8bo$33b2ob2o10b5o82b
+2o8bo$16b2o16b4o68bo14b2o5b4o$15b2ob2o15b2o50bo16bobo12b2ob2o3bo3bo$
+16b4o68bo16b2o12b4o8bo$17b2o69bo31b2o5bo2bo$66bo20b2o$57b2o6bo20bo14bo
+23b2o$19b3o34b2ob2o4bo3bo29bobo22b5o$18b2o3bo33b4o4b4o31b2o22bo4bo$17b
+2o2bobo34b2o64b3o2bo$18bo5bo21b2o32b2o5b4o34bo2b2o$19b2o2bo21b2o31b2ob
+2o3bo3bo35b2o$23bo23bo12bo17b4o8bo$21bo37b2o18b2o8bo$25bo32b2o$16b2o6b
+o16b2o16b2o67b4o$15b2ob2o4bo3bo11b2o85bo3bo$16b4o4b4o14bo67b4o17bo$10b
+o6b2o77b2o11bo3bo16bo$b2o6bo85b2ob3o12bo$2ob2o4bo3bo22b2o19b2o37b5o11b
+o$b4o4b4o22b2o19b2ob2o15b2o19b3o21bo$2b2o33bo19b4o14b4o43bo$58b2o14b2o
+b2o39bo3bo16bo$75b2o42b4o17bo$4bo7b3o16b2o103bo3bo$3b2o9bo15b2o105b4o$
+2b2obo6b3o17bo$3bobo3b3o$4b2o$26b2o102bo4b2o$25b2o100b4o3b2ob2o$27bo
+98b5o4bo2bo$b2o122bo9bo2bo$2ob2o14b2o105b2o8b2o$b4o13b4o105bo$2b2o13b
+2ob2o$18b2o109b2o8bo$128b4o8bo$128b2ob2o3bo3bo$130b2o5b4o!
+

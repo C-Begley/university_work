@@ -1,0 +1,13 @@
+x = 44, y = 46, rule = B3/S23
+8bo21bo$7bobo19bobo$6bo3bo17bo3bo$7b3o19b3o$$5boo3boo15boo3boo$bboo3bo
+bo3boo9boo3bobo3boo$bboo3bobo3boo9boo3bobo3boo$oo5bobo5boo5boo5bobo5b
+oo$4booboboboo13booboboboo$o6bobo6bo5bo6bobo6bo$3boobbobobboo11boobbob  
+obboo$bobbobo3bobobbo7bobbobo3bobobbo$boo11boo7boo11boo$boo11boo7boo
+11boo$4bo7bo13bo7bo$4b3o3b3o13b3o3b3o$6bo3bo17bo3bo$3boobo3boboo11boob
+o3boboo$5boo3boo15boo3boo$5bobobobo15bobobobo$$5bobbobbo15bobbobbo$6b
+ooboo17booboo$5boo3boo15boo3boo$$4bobb3obbo13bobb3obbo$3b11o11b11o$3b
+oobo3boboo11boobo3boboo$$7b3o19b3o$3bobbooboobbo14booboo$bb4obobob4o
+12bobobobo$bo3boo3boo3bo9b3o5b3o$bbo11bo9bo3bo3bo3bo$5boo3boo11boobobo
+3boboboo$5boo3boo14boo5boo$5bobobobo13bo9bo$7bobo19b3o$5bobobobo17b3o$
+4booboboboo11boo9boo$4bobo3bobo11boo3bobo3boo$29bobo$41boo$41bobo$41bo
+!

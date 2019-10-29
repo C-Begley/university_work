@@ -1,0 +1,10 @@
+x = 113, y = 26
+42b6obo39bo$41b3ob2ob3ob2o19bo5b2o7bob2o3b2o$44b2o7b2o14bo3bob
+2o3b2o6bo4bo2bo$39b2o3bob3o4bo11b2o3b2o4bobobo6b3obobo2bo10bo2b
+2o$38bo8b2o5bo3b3ob4o5b2o4b4o9bo4bo6b2o2bo4b2o$37bobo2b3o4bo4b
+3o5b3o4b2obo7b2ob3o9b3o4bobo2bob2o$36bobo10b2obo4bob2o5b2o13b
+o2bo4bob2o2b2obob2o2bo2b2o$35bobo16b2obo6bo17b2o5bob2o2b2o3bo2b
+o$34bobo27bo24bob2o4b4o$33bobo$32bobo$31bobo$30bobo$29bobo$28b
+obo$27bobo$26bobo$2b3obo5b2o11bobo$2o4bob2obobo10bobo$7o2bobob
+o9bobo$2bo7b3o9bobo$3o4b3o3bo2b2obobobo$o7b2o3bo2b2o4bo$2bo9b
+3o6bo$2bo8bobo4b2o$2o8bobo5b2o!

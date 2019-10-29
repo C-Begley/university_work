@@ -1,0 +1,21 @@
+#CP46 shuttle and first p46 gun by Bill Gosper, 1971
+x = 226, y = 87, rule = B3/S23
+118boo$63boo54bo69bo3b3o$oo3boo4boobo47bobo15boo37bobo52boo12bobobb5o
+3boo$oo3boo4boboo46boobo15boo38boo52boo12bo3boo3boobboo$9boo39boo10boo
+125bobbo3boo$oo3boobbo23boo15bobo10bo126b3o3bo$obobobo3bo22boo17bo$bbo
+bo4boo39b3o10bo63bo7boo53b3o3bo$boobo6boobo47boo62boo6bobbo12boo37bobb
+o3boo$5boo4boboo46boobo15boo44bobo5bobboo11boo22boo12bo3boo3boo$6bobb
+oo4boo45bobo15boo52bobbo36boo12bobobb5o$5bo3bo5bo34b3o10boo52boo17bo
+52bo3b3o$5boo3bo5bo16boo17bo49boo12bobbo$6bobboo4boo16boo15bobo49boo
+11boobbo16bo$5bo5boobo35boo64bobbo14bobbo$5boo4boboo102bo16bobboo11boo
+39boo$67bo66bobbo12boo22boo15bobo$68bo48bo17boo37boo17bo$66b3o47bobbo
+71b3o$102boo11boobbo5bobo$102boo12bobbo6boo77bo$117boo7bo76bobo$191b3o
+10boo$174boo17bo$174boo15bobo$191boo6boobo$199boob3o$205bo$199boob3o$
+197bobbobo$197boo4$84boo55boo$84bobo54bobo$86bo56bo$86boo55boo$222boo$
+222bobo$224bo$224boo3$56boo5boo$56boo5boo8$57bo5bo$56b3o3b3o$55boobo3b
+oboo45boo14b3o8boo$111boo12bo3bo8boo$124bo4bo$58bo3bo61bo3bo$58bo3bo$
+124bo3bo$124bo4bo$111boo12bo3bo$111boo14b3o$151bobo$152boo$64bo87bo$
+41boo22boo$31boo7bobo21boo$31boo7bo$40b3o4$40b3o98b3o5b3o$31boo7bo17b
+oo80booboo3booboo$31boo7bobo15boo80booboboboboboo$41boo98bo3bobo3bo$
+141bobbo3bobbo$142b3o3b3o16boo$167bobo$169bo$169boo$81boo$81bobo$83bo
+58boo5boo$83boo57boo5boo!

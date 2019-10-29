@@ -1,0 +1,21 @@
+#C32c/40 pulsar fuse leaving pairs of blocks.
+#CShown with a pulsar puffer, but the fuse quickly
+#Ccatches up to the puffer and burns out.
+#CJason Summers, Jan 2000
+x = 176, y = 41, rule = B3/S23
+23b3o$6boo14b5o$5boob4o9boob3o$6b6o10boo$7b4o$$3boo$bo5boo$o6b3o$o8boo
+7b3o3boo15bo$8o3bo5booboobboo4bo8bobo$5b6o8bo9bobo8boo39b3o$9bo6boo11b
+obo49bobo$30bo49bobbo$boo77b3o29bo5bo41bo5bo$ooboo75boo14bo5bo9bo5bo8b
+3o3b3o7boo5boo8bo5bo$b4o90b3o3b3o8boo3boo25boo3boo9boo3boo7bo$bboo3b6o
+52bo17bo10bobobobobobo20bo4bobo4bo3bobbobobobobbo19b3o$7bo5bo49bobo16b
+3o8b3obooboob3obb3obbooboobb3obbo4bobo4bo3b3obooboob3obb3obbooboobb3o
+3bo$7bo56boo28bobobobobobo5bobobobobobo4bo4bobo4bo4bobobobobobo5bobobo
+bobobo$8bo4bo18boo34bo26b3o3b3o8boo3boo8b3o3b3o7b3o3b3o8boo3boo$10boo
+18bo4bo32boo$29bo37bobo25b3o3b3o8boo3boo8b3o3b3o7b3o3b3o8boo3boo$29bo
+5bo58bobobobobobo5bobobobobobo4bo4bobo4bo4bobobobobobo5bobobobobobo$
+29b6o21bo25b3o8b3obooboob3obb3obbooboobb3obbo4bobo4bo3b3obooboob3obb3o
+bbooboobb3o3bo$22boo32boo25bo10bobobobobobo20bo4bobo4bo3bobbobobobobbo
+19b3o$21booboo29bobo37b3o3b3o8boo3boo25boo3boo9boo3boo7bo$22b4o54boo
+14bo5bo9bo5bo8b3o3b3o7boo5boo8bo5bo$23boo19bo35b3o29bo5bo41bo5bo$24bo
+5b3o11boo34bobbo$22bo3bo3boobo9bobo35bobo$21bo5bo5bo47b3o$21bo5bo3b3o$
+21b6obo3bo$30bo3$31boo$30boob4o$31b6o$32b4o!

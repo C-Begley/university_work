@@ -1,0 +1,17 @@
+#Cp6 block puffer found by Paul Tooke, 30 Apr 2001
+#CA sample p6 spaceship is also shown
+#C (this one found by David Bell, 1992)
+x = 25, y = 101, rule = B3/S23
+9bobo$8bobbo$7boo$6bo3bo$5b3obo$bboo18bobo$bo3b5o11bobbo$o3bo15boo$o5b
+oo11bo3bo$3o3b4o8b3obo$bo7bo5boo$boo11bo3b5o$bobo9bo3bo$boobboo6bo5boo
+$bbob3o6b3o3b4o$14bo7bo$4b5obo3boo$5bo3boo3bobo$6b3o5b3o$7boboo4b3obo$
+8boobo5bobo$15bobobboo$8bo3bobbo3boobbo$8boboboboobo3boo$7bo5boobbo$7b
+o5boobbo$8boboboboobo3boo$8bo3bobbo3boobbo$15bobobboo$8boobo5bobo$7bob
+oo4b3obo$6b3o5b3o$5bo3boo3bobo$4b5obo3boo$14bo7bo$bbob3o6b3o3b4o$boobb
+oo6bo5boo$bobo9bo3bo$boo11bo3b5o$bo7bo5boo$3o3b4o8b3obo$o5boo11bo3bo$o
+3bo15boo$bo3b5o11bobbo$bboo18bobo$5b3obo$6bo3bo$7boo$8bobbo$9bobo9$5bo
+bo$4bobbo$3boo$bbo$b4o$o4bo$obbo$obbo$bo$bb4obo$3bo3bo$4bo$4bobo$$3b3o
+$3boo$3boo4bobo4bobo$3b5obobbobbobboboo$5bo4bo3boo$3bo7bo6bo$3bobo6b5o
+bo$bbo17boobo$3bobo6b5obo4boo$3bo7bo6bo$5bo4bo3boo7boo$3b5obobbobbobbo
+boobo$3boo4bobo4bobo$3boo$3b3o$$4bobo$4bo$3bo3bo$bb4obo$bo$obbo$obbo$o
+4bo$b4o$bbo$3boo$4bobbo$5bobo!

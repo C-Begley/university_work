@@ -1,0 +1,11 @@
+This is a collection of the smallest known Life spaceships of various
+types.  Unless otherwise stated (files short.rle, thin.rle, p2-21x21.rle and
+p3-15x15.rle), size is measured in terms of the minimum population, simply
+because this is conventional.
+
+Descriptions of the supplied rle files are given in the file "ships.txt".
+
+Please report any errors or omissions to me.
+
+Stephen Silver
+life@argentum.freeserve.co.uk

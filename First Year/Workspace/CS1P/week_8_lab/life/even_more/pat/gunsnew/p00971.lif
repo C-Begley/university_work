@@ -1,0 +1,32 @@
+#C p00971 found using Karel Suhajda's Hersrch program
+#C Scot Ellison - July 30, 2003
+#C 64 64 125 222 77 77 190 125 125 125 125 77 200 153 77 116
+#C
+x = 210, y = 92, rule = B3/S23
+39boo32boo34boo$39boo32boo34bobboo$110boob3o11boo$116bo11bo25bo$110boo
+b4obbo8bobo21b3o$110boobo3b3o9boo20bo$28bo33bo53bo34boo$27bobo31bobo
+24boo26boo$27bobo8bo22bobo25bo81boo8bo$25b3oboo6bobo19b3oboo24bobo77b
+3obo5b3o7boo$24bo11bo3bo17bo31boo76bo4bo4bo10bo$25b3oboo8bo9boo8b3oboo
+18boo70boo11boo3bobo3bo10bo$27boboo7b3o8bo11boboo18bo71boo17bobo3bo8b
+oo$38booboo4bobo31bobo91bo3boo17bo6bo$33boo3bo3bo4boo32boo113b3o5bobo$
+34bobobo3bo43boo107bo8bobo$32bo3boo47bobo107boo6boob3o$30boo3bobo6boo
+39bo123bo$29boo6bo6boo38boo7boo91boo15boob3o$28booboobbo57boo91boo15b
+oobo$29boboobboo93boo$30b3o97boo11boo$143bo$144b3o$27boo32boo42boo3boo
+34bo39b3o19boo$27boo7boo23boo43bo3bo75bobbo18bo$36boo65b3o5b3o12boo56b
+o4bo16bobo$103bo9bo12bo27boo34bo15boo$101bobo23b3o23bobo20boo5bo5boo$
+101boo26bo23bo22boo5bo5boo$152boo33bo$184booboo$$149bo$15boo131bobo$
+16bo131bobo$16bobo127b3oboo11boo$17boo126bo17boo32boo$44boo32boo66b3ob
+oo45bo$44boo32boo68boboo34boo10bo$186boobboo5boo$168bo21bobo$166boo24b
+o$167boo23boo$181boo$164boo15boo$164boo$$139boo46boo$18boo44boo32boo
+39boo46boo$18boo14boo28bobo31bobo82boo$34bo9boboo18bo11boboo18bo82boo$
+35b3o4b3oboo18boo8b3oboo18boo$37bo3bo33bo$42b3oboo28b3oboo$44bobo31bob
+o107boo$44bobo31bobo71boo34boo$45bo33bo73bo$150b3o$150bo$7boo$8bo$8bob
+o45boo32boo$9boo45boo32boo51boo7boo$18boo123boo7bobo$18boo102bo27bobob
+3o$122b3o25boo5bo$125bo30boo$124boo$49bo15bo9bo$34boo13b3o13b3o5b3o29b
+o$34bo17bo15bo3bo13boo17b3o$3bo31bo15boo14boo3boo13bo20bo$3b3o28boo50b
+o20boo11boo$6bo79boo32boo$5boo4$41boo117boo21boo$41boo46boo68bobo21boo
+$89boo68bo17boo$bboo154boo17boo$bobo$bo124boo$oo121boobbobboo47boo$38b
+oo83boobo3bo41boo5boo$38bo19boo66bobobo10boo29boo$7boo3boo8boo15bo17bo
+bo11boo6bo19boo22booboboo12bo$7boo3boo9bo14boo17bo13boo6b3o18bo16boo4b
+obbo12b3o63bo$20b3o33boo24bo14b3o17boo6boo12bo66bo$20bo60boo14bo106b3o
+!

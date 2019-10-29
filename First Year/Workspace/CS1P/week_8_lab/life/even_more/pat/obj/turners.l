@@ -1,0 +1,11 @@
+x = 137, y = 57
+9boo36boo$8boob4o31boob4o78boo$9b6o32b6o77boob4o$10b4o34b4o79b6o$132b
+4o$4bo34bo55b6o$3bo34bo56bo5bo$3b3o32b3o54bo$96bo4bo23bobo$3bo34bo59b
+oo26boo$bo3bo30bo3bo85bo$o34bo61bo23bobbo$o4bo29bo4bo57bo21bo$5o30b5o
+56b3o21bo3bo$120b4o$$13b6o28b6o48boo28boo$13bo5bo27bo5bo45bo4bo24bo4bo
+$13bo33bo50bo29bo$14bo4bo28bo4bo44bo5bo23bo5bo$16boo32boo46b6o24b6o16$
+16boo32boo46b6o21bobo$14bo4bo28bo4bo44bo5bo21boo$13bo33bo50bo27bo$13bo
+5bo27bo5bo45bo4bo16bobbo$13b6o28b6o48boo17bo$120bo3bo$120b4o$94bobo$
+95boo$4bo34bo55bo35boo$3bo34bo51bobbo36boob3o$3b3o32b3o48bo41b5o$89bo
+3bo38b3o$3bo34bo50b4o$bo3bo30bo3bo$o34bo64boo$o4bo29bo4bo57bo4bo$5o5b
+4o21b5o8b4o45bo$9b6o32b6o44bo5bo$8boob4o31boob4o44b6o$9boo36boo!

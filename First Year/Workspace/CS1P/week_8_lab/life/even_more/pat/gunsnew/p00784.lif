@@ -1,0 +1,23 @@
+#C p784 from self-intersecting p112 output Dave Greene 7 May 2003
+#C Herschel cap changed to two blocks and reflector replaced with
+#C a p7.   Scot Ellison May 8, 2003
+#C
+x = 121, y = 72, rule = B3/S23
+30bo$28b3o11bo36b3o$bboo23bo14b3o33bo$3bo23boo16bo14bo17bo3bo$3bobo38b
+oo12b3o17bobbobo8bo14booboo$4boobboo47bo22bobobbo4b3o8boo5boobbo$8boo
+47boo22bo3bo3bo10bobbobbo4bo$21boobo60bo3boo9bobobbob4ob3o$21b4o57b3o
+14boobb3o4bobobbo$20bo3bo31boo29bo9bobbo5boobobbobo$21b3o13boo17boo6b
+oo20bobo8boobob3obobboboob4o$21b3o13boo25boo21boobboo5boboobo3boo3boo
+4bo$23bo67boo5bo4boboobb3o3b3o$99b3oboobbo3bobobo$57boo42bo4boboobb3o$
+57boo44boobobo4bo4boo$102boobo3bo7bobbo$bboo36boo64b3o9b3o$bobo16boo
+19bo67b3o3b3o$bo18bobo16bo66boo3bobobo3boo$oo20bo16boo65boboobb3obboob
+o$16boo4boo19boo8bo54bo9bo$16bobbo24bo6booboo52bo3bobo3bo$18boo21b3o7b
+ooboo51boobo5boboo$9boo30bo8b3obo51bobbobobobobobbo$9boo42b3o50boobobo
+boboboboo$108boboo3boobo$108bo3b3o3bo$oo107b3o3b3o$bo109bo3bo$o68boo$
+oo67boo42bo$113bo$$113bo$112bobo$112boo$116boo$6b3o42boo63bobo$7bob3o
+8bo30boo58boo5bo$6booboo7b3o21boo67boo5boo$6booboo6bo24bobbo27bo$8bo8b
+oo19boo4boo28bo$21boo16bo20boo10b3o25boo$22bo16bobo18bo40boo$20bo19boo
+16bobo39bo$20boo36boo5$38bo$23boo13b3o$4boo17boo13b3o$4boo31bo3bo$37b
+4o$37boboo$3boo47boo$4bo47boobboo$b3o12boo38bobo24boo$bo14bo16boo23bo
+24boobboo$17b3o14bo23boo27bobo$19bo11b3o54bo$31bo60bo$85boo4bobo$86bo
+3bo3bo$83b3o5bo3bo$83bo8bo3bo$93bo3bo$94bobo22bo$95bo24bo$118b3o!

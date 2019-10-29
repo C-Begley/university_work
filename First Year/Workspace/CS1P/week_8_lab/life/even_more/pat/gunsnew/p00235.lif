@@ -1,0 +1,17 @@
+#Cminor bounding box improvement - Scot Ellison July 17 2003
+x = 118, y = 90, rule = B3/S23
+35bo8boo4bo$35b3o6bobobbobo$38bo7b4obbo$37boo6bo4bobo$45boobbooboo$55b
+o$49boob4obbo$49boobo3b3o$55bo$55boo40bo$13boo80b3o$14bo63boo14bo9boo
+3boo$14bobo61bo15boo8boo3boo$15boobboo58bo$19boo57boo$116boo$116bo$85b
+obo26bobo$33bo49bo4bo25boo$30b3o48bo6bo$26boobo45boo3bo5bobo$26bo4bo
+43boobbo3boo$27b3o49bo$79boo$$13boo28boo66boo$12bobo16boo9bobo4boo60bo
+$12bo18bobo8bo6bo32boo28b3o$11boo20bo7boo7b3o29bo31bo$27boo4boo17bo30b
+o$27bobbo51boo$29boo37boo$20boo46bo$20boo47b3o$71bo$98boo$98boo10$117b
+o$115bobo$116boo$7boo$8bo$8bobo$9boo32bo$18boo23b3o$18boo26bo$45boo$
+96boo$96boo$87boo$34boo51bobbo$34bo30bo17boo4boo$3bo31bo29b3o7boo7bo
+20boo$3b3o28boo32bo6bo8bobo18bo$6bo60boo4bobo9boo16bobo$5boo66boo28boo
+$$37boo$38bo49b3o$33boo3bobboo43bo4bo$29bobo5bo3boo45boboo$29bo6bo48b
+3o$bboo25bo4bo49bo$bobo26bobo$bo$oo$38boo57boo$38bo58boobboo$7boo3boo
+8boo15bo61bobo$7boo3boo9bo14boo63bo$20b3o80boo$20bo40boo$62bo$59b3o3bo
+boo$59bobb4oboo$62bo$64booboobboo$65bobo4bo6boo$65bobb4o7bo$66bobobbob
+o6b3o$67bo4boo8bo!

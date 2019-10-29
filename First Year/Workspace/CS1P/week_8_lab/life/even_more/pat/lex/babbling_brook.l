@@ -1,0 +1,19 @@
+#C babbling brook  Any oscillator whose rotor consists of a string
+#C    of cells each of which is adjacent to exactly two other rotor cells,
+#C    except for the endpoints which are adjacent to only one other rotor
+#C    cell.  Compare muttering moat.  Examples include the beacon, the
+#C    great on-off, the light bulb and the spark coil.  The following
+#C    less trivial example (by Dean Hickerson, August 1997) is the only
+#C    one known with more than four cells in its rotor.  It is p4 and has
+#C    a 6-cell rotor.
+	.......*........
+	.....***....**..
+	....*...**..*...
+	.*..*.**..*.*...
+	*.*.*....**..**.
+	.**..**....*.*.*
+	...*.*..**.*..*.
+	...*..**...*....
+	..**....***.....
+	........*.......
+

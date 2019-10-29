@@ -1,0 +1,22 @@
+#C
+x = 182, y = 152, rule = B3/S23
+111bo$110bo$bboboo6boobo14boobo21bo54b3o$bboobo6boboo8boo4boboo22boo$
+oo8boo13bo8boo19boo118bo$bo8bo13bo9bo139b3o$o10bo12boo9bo137bo3bo$oo8b
+oo10boo10boo141bo3bo$bboboo6boobo7bo6boobo144b3o$bboobo6boboo6bo7boboo
+145bo$6boobboo4boo4boo4boo141bo$7bobbo5bo3boo6bo141b3o$6bo4bo5bo3bo7bo
+139bo3bo$6boobboo4boobbo7boo143bo3bo$bboboo6boobo4boo8boobo63bo76b3o$
+bboobo6boboo14boboo62bo78bo$69bo26b3o68bo$70boo94b3o$69boo94bo3bo$169b
+o3bo$170b3o$171bo$163bo$162b3o$94boo65bo3bo$94bo70bo3bo$92bobo71b3o$
+84boo6boo73bo$83bobbo72bo$83bobbo71b3o$84b3o70bo3bo$161bo3bo$162b3o$
+163bo$155bo$154b3o$153bo3bo$79b3o75bo3bo$79bobbo75b3o$79bobbo76bo$80b
+oo69bo$150b3o$73b4o72bo3bo$77bo75bo3bo$72bo81b3o$75boobo76bo$72b3obb3o
+67bo$72boo72b3o$78boo65bo3bo$72b3obb3o69bo3bo$73boboo73b3o$79bo71bo$
+74bo68bo$75b4o63b3o$141bo3bo$70boo73bo3bo$69bobbo73b3o$69bobbo74bo$70b
+3o66bo$138b3o$137bo3bo$141bo3bo$142b3o$143bo$135bo$65b3o66b3o$65bobbo
+64bo3bo$65bobbo68bo3bo$66boo70b3o$139bo$59b4o68bo$63bo66b3o$58bo70bo3b
+o$61boobo68bo3bo$58b3obb3o68b3o$58boo75bo$64boo61bo$58b3obb3o60b3o$59b
+oboo62bo3bo$65bo63bo3bo$60bo69b3o$61b4o66bo$$56boo$55bobbo$55bobbo$56b
+3o7$51b3o$51bobbo$51bobbo$52boo$$45b4o$49bo$44bo$47boobo$44b3obb3o$44b
+oo$50boo$44b3obb3o$45boboo$51bo$46bo$47b4o$$42boo$41bobbo$41bobbo$42b
+3o7$37b3o$37bobbo$37bobbo$30boo6boo$29bobo$29bo$28boo6$53boo$52boo$25b
+3o26bo$27bo$26bo10$67boo$66boo$11b3o54bo$13bo$12bo!

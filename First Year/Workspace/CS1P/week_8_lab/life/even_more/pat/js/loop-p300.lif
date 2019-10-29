@@ -1,0 +1,18 @@
+#CNicolay Beluchenko, 18 Jul 03
+#C(slightly modified by Jason Summers)
+x = 139, y = 183, rule = B3/S23
+67bo$67bo$$67bo$66bobo$$66b3o3$66b3o$$66bobo$67bo$$67bo$67bo$50boo3bo
+bbo3boo$50b5o4b5o$50boo3bobbo3boo11$96bo$95b3o$94bobobo$94bobobo$95b3o
+$96bo$$48b3o$50bo45bo$49bo45b3o$94bobobo$94bobobo$16bo78b3o$15b3o78bo
+3$15b3o82bobbo4bobbo$98b3obb6obb3o$15bobo82bobbo4bobbo$15bobo$$15b3o3$
+15b3o$16bo$$boo6boo$obbo4bobbo$obbo4bobbo$obbo4bobbo$boo6boo5$7b8o$7bo
+b4obo$7b8o57bo$72bobo$72boo$$21bo$20b3o$19booboo$18b3ob3o$18b3ob3o$18b
+3ob3o$18b3ob3o$19booboo$20b3o$21bo7$72bo$71bobo$71bobo$51boo18bobo$51b
+obo$51bo10$117bo$116b3o$115booboo$114b3ob3o$114b3ob3o$114b3ob3o$114b3o
+b3o$115booboo$116b3o$117bo4$124b8o$124bob4obo$124b8o5$123bo4boo6boo$
+122boo3bobbo4bobbo$122bobobbobbo4bobbo$127bobbo4bobbo$128boo6boo$$122b
+o$121b3o3$121b3o$$121bobo$27bobbo4bobbo82bobo$25b3obb6obb3o$27bobbo4bo
+bbo82b3o3$42bo78b3o$41b3o78bo$40bobobo$40bobobo$41b3o$42bo$$55boo$42bo
+11boo$41b3o12bo$40bobobo$40bobobo$41b3o$42bo11$75boo3bobbo3boo$75b5o4b
+5o$75boo3bobbo3boo$71bo$71bo$$71bo$70bobo$$70b3o3$70b3o$$70bobo$71bo$$
+71bo$71bo!

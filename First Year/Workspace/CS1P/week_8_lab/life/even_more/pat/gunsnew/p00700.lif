@@ -1,0 +1,21 @@
+#C p700 gun
+#C Karel Suhajda, 22 Jun 2003
+x = 103, y = 83, rule = B3/S23
+69boo$66boobbo21boboo$45bo18b3oboo22boobo$44bobo7bo8bo$45bo6b3o9b3oboo
+20b5o$34bo16bo14boboo20bo4bo$34b3o14boo40bobbo$37bo55boobobbo$36boo52b
+o5bobobo$89bobo4bobbo$89bobbobboo$90boo$31boo25boo38boo$32bo25boo34boo
+bbobo$32bobo59bobobobo$33boo60bobboboo$98bo3bo$94boo3bobo$46boo46bobbo
+boboo$46bobo6boo40bobo$48bo6bo20boo17boboboboo$48boo6bo20bo18bobboboo$
+55boo17b3o20boo$74bo$$77bobo$77boobo$29boo13boo34b3o$29boo13bobo30boo
+4bo$46bo30bob5o$46boo31bo$78bo3boo$63bo13bo3bobo$44boo17b3o11boo3bo$
+43bobboboo16bo$7boo35boboboo15boo34boo$7boo35bobo54boo$41b3obboboo$41b
+oo3bobo$boo38boobbo3bo6boo$boo39bobboboo6bobobboo34boo$5boo34bobobobo
+7bobobobo34boo$5boo34boobbobo6boobobo40boo$45boo6bo3bo42boo$54boboobbo
+$53boobob4o$oo54bobobo33boo$oo34boo15boobobobo33boo$36bo16boobobbo$20b
+o3boo11b3o17boo$19bobo3bo13bo$19boo3bo$23bo31boo$19b5obo30bo$19bo4boo
+30bobo13boo$20b3o34boo13boo$22boboo$23bobo$$28bo$4boo20b3o17boo$oobobb
+o18bo20bo6boo$ooboboo18boo20bo6bo$3bobobo38boo6bobo$oobobbobo46boo$bob
+oo4bo$o3bobo$boobobo51bo9boo$bbobobobo38boo9bo9bobo$bbobobboo36bo3bo
+20bo$3boo40bob3o20boo$11boo35boo$6boobbobbo33bo$3bobbo4bobo33bo$bbobob
+o5bo$3bobboboo$6bobbo40boo$7bo4bo20boobo14bo$8b5o20boob3o9b3o6bo$39bo
+8bo7bobo$7boboo22boob3o18bo15bo$7boobo21bobboo37bo$32boo38b3o!

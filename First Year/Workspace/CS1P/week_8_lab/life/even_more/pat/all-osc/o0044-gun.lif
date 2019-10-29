@@ -1,0 +1,35 @@
+#C1. Single-engine p44 gun
+#CBy David Buckingham, Oct 1996.
+#CBased on a larger p44 gun by Buckingham, 1992.
+#CSlightly improved by Paul Callahan (rightmost 
+#Ceater), Feb 1997.
+#C----
+#C2. p22-based p44 gun
+#CJason Summers, Nov 2001
+#C(see p22 gun)
+x = 241, y = 56, rule = B3/S23
+oo3boobboo3boo$oo3boobboo3boo$$oo3boobboo3boo112boo$obobobobbobobobo
+33boo6boo70bo15b3o9bo56boo6boo$bbobo6bobo35boo6boo70bobo16bo8b3o54boo
+6boo$boobo5boobo116boobbobbo6bo4bo10bo$5boo7boo117bo3bo6bo4bo9boo$6bo
+8bo117bo4bo6bo3bo10b3o$5bo8bo118bo4bo6bobbobboo8b3o$5boo7boo118bo16bob
+o7b4o$6bo8bo119b3o15bo10boo$5bo8bo18boo38boo78boo9b3o31boo38boo$5boo7b
+oo16bobo38bobo85boobo32bobo38bobo$32boboboo32boobobo34boo16bo32boo34bo
+boboo32boobobo$33bobobo32bobobo36bo16boo4bobo61bobobo32bobobo$35bo36bo
+38bobo13b4o4boo63bo36bo$33bobbo13boo4boo13bobbo37b3o15boo3bo62bobbo13b
+oo4boo13bobbo$36bo12bobo4bobo12bo42b3obboo5boobb3o68bo12bobo4bobo12bo$
+32bo3bo12bo8bo12bo3bo38b3obboo5boobb3o64bo3bo12bo8bo12bo3bo$32bo3bo12b
+obo4bobo12bo3bo39boo15b3o5bo20boo34bo3bo12bobo4bobo12bo3bo$36bo13boo4b
+oo13bo44b4o13bobo5boo16boboo38bo13boo4boo13bo$33bobbo34bobbo42boo16bo
+4boo15b3o38bobbo34bobbo$35bo36bo45bo16boo21boo40bo36bo$33bobobo32bobob
+o84b4o35bobobo32bobobo$32boboboo32boobobo84b3o34boboboo32boobobo$32bob
+o38bobo69bobo13b3o33bobo38bobo$33boo25bo12boo71boo15boo33boo25bo12boo$
+58boobbobo81bo16bo59boobbobo$60bobbobo98b3o58bobbobo$62boo102bo60boo$
+47boo163boo$48bo164bo$45b3o108bo53b3o$45bo13bo6boo86bobo53bo8bo4bo6boo
+$51bo6bobo5bobo55boo16boo11boo58boobbo3bobo5bobo$50bo7bobo7bo54bo18bo
+4b3o65bo7bobo7bo$50boo3bo3boo7boo52bo3bo12boobo6bo66bo3bo3boo7boo$55bo
+65bo5bo13bo6bo71bo$124boboo5boobbo$123bobboo5boobo$52boo65bo13bo5bobb
+oo$51bobo64boboo12bo3bobbobo$51bo66bo18bo5bo84b5o$50boo65boo16boo30bo
+59bo4bo$165bobo64bo$143bo16boo4boo59bo3bo$65bo76boo16bo68bo$63bobo75b
+4o13bobo59boboo$64boo74boo15b3o58b3oboo$139b3obboo5boobb3o59bo$139b3o
+bboo5boobb3o60b3oboo$137b3o15boo63bobo$136bobo13b4o64bobo$136bo16boo
+66bo$135boo16bo!

@@ -1,0 +1,5 @@
+#C beehive (p1)  The second most common still life.
+	.**.
+	*..*
+	.**.
+

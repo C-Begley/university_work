@@ -1,0 +1,10 @@
+#CThe smallest known pattern (117 cells) that grows at
+#Cexactly one cell per generation.
+#CBased on a wickstretcher found by
+#CHartmut Holzwart, Jan '04
+x = 28, y = 44, rule = B3/S23
+15b3o$17bo$16bo$13boo$14boo$$16bo$13bo4bo$13bobob3o$16booboo$20boo$21b
+oobb3o$20boo5bo$19bobbo3bo$20b4o$21bobbo$24boo$18bo4boo$16boobbo$17bob
+oobo$14b5o3bo$13bo$14bo$5boo4b3o$4bo3b3obo$8boobbo$bbobbobo$3boo4bo$3b
+oboo$5boobbo$bbo5bo$oo4boo$boo3bo$6bo$7bobbo$8b3oboo$12b3o$12boo$12boo
+$13bobo$14bo$12bo$10boo$11boo!

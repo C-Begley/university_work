@@ -1,0 +1,12 @@
+#C p480 (11-on, 5-off) gun
+#C 2- collision + block + 6 eaters
+#C Dean Hickerson, dean@math.ucdavis.edu (7/90)
+x = 66, y = 51
+39bobo$39bo2bo$30b2o10b2o8bo$30b2o8bo3b2o5bobo$5b2o28b2o5b2o6bob2o$4bo
+2bo26bo4bo2bo6b2ob2o10b2o$4bo34bobo8bob2o10b2o$4bo46bobo$4bobo35bo9bo$
+4bobo34bo$5bo35b3o$47b2o$47bo$2b2o3b2o36bobo$2bo5bo36b2o2$3bo3bo26bo$
+4b3o27bobo$34b2o4$41b2o$27bo13b2o$8bo17bo$6bobo17b3o$7b2o2$3bo$2b3o31b
+2o$b5o30bobo$2o3b2o8bo3bo18bo$b5o10bo2bobo16b2o$bo3bo8b3o2b2o$2bobo$3b
+o23b2o$27bobo$9b2o18bo$3b2o3bobo18b2o$3b2o3bo$7b2o3$10b2o$9bobo$9bo$8b
+2o$13b2o$14bo$11b3o$11bo!
+

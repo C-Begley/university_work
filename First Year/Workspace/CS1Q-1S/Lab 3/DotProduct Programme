@@ -1,0 +1,104 @@
+; Program DotProduct (Sigma16 assembly language)
+; Author: Conor Begley(2236693B) 23/02/2017
+
+; Find the dot product of two arrays 
+; ((x[0]*y[0]) + (x[1]*y[1]) + (x[2]*y[2]) + .... + x[n-1]*y[n-1])
+
+; This program is given:
+;      * a natural number n, assume n > 0
+;      * two non-empty arrays of size n
+;     It calculates: 
+;      * dot = sum of x[i]*y[i] fo i from 0 to n-1 
+
+; High Level version:
+;           dot = 0
+;           for i in range(n):
+;                 dot += x[i]*y[i]
+
+; Low level version
+;           dot = 0
+;           i = 0
+;    loop:
+;           if i > (n-1) goto done
+;           dot = dot + x[i]*y[i]
+;           i = i+1
+;           goto loop
+;
+;    done:
+;        terminate
+
+
+; Assembly program
+
+; Resgister usage
+;   R1 = x
+;   R2 = y
+;   R3 = i
+;   R4 = n
+;   R5 = dot
+;   R6 = 1
+
+           lea      R3,0[R0] ;     R3 = i
+           load     R4,n[R0] ;     R4 = n
+           lea      R5,0[R0] ;     R5 = dot
+           lea      R6,1[R0] ;     R6 = contant 1
+
+;Top of looop, determine whether to remain in loop
+; if not (i<n) then goto done
+
+loop
+           cmp      R3,R4    ;    compare i, n
+           jumpge   done[R0] ;    if i>= n then go to done
+  
+; multiply x[i] and y[i]
+
+           load     R1,x[R3] ;    x := x[i] 
+           load     R2,y[R3] ;    y := y[i]
+           mul      R7,R1,R2 ;    x[i]*y[i]
+
+; add x[i]*y[i] to dot
+
+           add      R5,R5,R7 ;    dot := dot + x[i]*y[i]
+
+; end of loop
+        
+          add       R3,R3,R6 ;   i := i+1
+          jump      loop[R0] ;   go to top of loop      
+
+
+; Store dot and terminate
+
+done       store    R5,dot[R0] ; dot = R5
+           trap     R0,R0,R0    ; terminate
+
+; Data area
+n          data     10
+dot        data     0 
+x          data     2  
+           data     4
+           data     6
+           data     8  
+           data     10
+           data     12
+           data     14  
+           data     16
+           data     18
+           data     20
+y          data     1 
+           data     3
+           data     5
+           data     7  
+           data     9
+           data     11
+           data     13  
+           data     15
+           data     17
+           data     19       
+
+
+  
+
+
+ 
+
+

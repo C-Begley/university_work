@@ -1,0 +1,18 @@
+#C p324 gun
+#C Karel Suhajda  non-squareness is Dave Greene's fault  21 Apr 2003
+x = 132, y = 68, rule = B3/S23
+43bo$43b3o29bo$46bo28b3o$45boo31bo$77boo29boo$15boo91boo5boo$16bo98boo
+$15bo$15boo$7bo105boo$7b3o66bobo26boo6boo$10bo65bobo23boob3o11boo$9boo
+66bo24boo3boo10boo$104bobobbo$12bo5boo84b3obboo$11b3o4boo84boboboo$10b
+3oboo92bo$9bo3b3o82bo$8bo4bo83bo$7boo88b3o$7bobo$4bobbobbo$3boo3bobo
+17boo$3bobo23bo30boo39booboo$26b3o25boo5bo30boo6bobobobo$26bo27bobob3o
+25boo5bo6bobobbo$24bobo20boo7bobo27bobob3o6boobo$24boo21boo7boo21boo7b
+obo7bo3boo22boo$79boo7boo9bobobbobo19bo$98booboobboo17bobo$oo122booboo
+$oboboo18boo101bobo$bboboo18bobo100bobo$bo24bo77boo20booboo$booboo20b
+oo77bo24bo$bbobo100bobo18boobo$bbobo101boo18boobobo$3booboo122boo$5bob
+o$5bo36boo7boo$4boo35bobo7boo21boo7boo21boo$39b3obobo27bobo7boo20bobo$
+38bo5boo25b3obobo27bo$38boo30bo5boo25b3o$70boo8boo20bo$80boo20boo3$71b
+oo$69booboo4boo$69bobbo5bo$69bobbo6bo5bo$70boo6boo3bobo26boo$78boo4boo
+26boo$$11boo108boo$11boo108bo$17boo103b3o$17boo74boo29bo$93boo20boo$
+116bo$15boo98bo$15boo5boo91boo$22boo29boo$53bo31boo$45bo8b3o28bo$46bo
+9bo29b3o$44b3o41bo!

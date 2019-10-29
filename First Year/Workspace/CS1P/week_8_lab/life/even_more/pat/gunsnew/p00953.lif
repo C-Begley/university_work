@@ -1,0 +1,31 @@
+#C p00953 found using Karel Suhajda's Hersrch program
+#C Scot Ellison - July 29, 2003
+#C 64 64 125 222 117 153 158 64 153 125 125 125 222 112 77
+x = 180, y = 99, rule = B3/S23
+131boo32boo$131boo32boo5$120bo33bo$119bobo31bobo$53boo64bobo31bobo$54b
+o25bo36b3oboo28b3oboo$54bobo21b3o11bo23bo33bo11boo$55boo20bo14b3o22b3o
+boo18boo8b3oboo5boo11boo$36boo39boo16bo14bo8boboo18bo11boboobboo14bo$
+29boo5boo56boo12b3o28bobo31bobo$29boo76bo31boo22b3o7boo$107boo54b3o$
+160bobb3o$31boo17boo104booboo9boo$31boo17bo55boo51boo9boo$25boo21bobo
+36boo17boo50bo$25boo21boo37boo4$119boo32boo$119boo32boo7boo$56boo32boo
+70boo$56boo11boo20bo$69bo19bo$25bo44b3o16boo$25b3o44bo20boo$28bo65bo$
+27boo23boo37b3o$52bo37bo$53b3o34boo$55bo36boboo$92bobobo82bo$89boobobb
+o81bobo$90bobo43boo40boo$89bobboo42boo$59bo29bobobbobo$57b3o30bobobboo
+$56bo34bo$20boo34boo$20boo146boo$159boo7boo$160bo$61bo39boo19boo36bobo
+$25boo34bo39boo19boo37boo$25boo25bo6bobbo93boo$21boo33b3ob3o6boo21boob
+o60bobo$21boo33boobo9boo21boboo27boo11boboo18bo$56boo3boo60bo10b3oboo
+18boo18boo$44boo16boo60b3o6bo43bobo$27boo15boo6boo5boobo63bo7b3oboo37b
+o$27boo23boo5boo75bobo37boo$16boo42bo37boo36bobo$17bo79bobo37bo$17bobo
+77bo22boobo$11boo5boobboo72boo22boboo33boo$11bo10boo34boobo96bo$12bo
+33b3o9boob3o94bobo$11boo31boo3bo14bo83boo9boo15boo$44bo4bo8boob3o84boo
+26boo$44bo3bo10bobo37boboo$45b3o11bobo35b3oboo$60bo35bo39boo21boo$97b
+3oboo6boo25bo21bobo$99bobo8bo27bo11boo6bo$99bobo5b3o27b4o9bo6boo$100bo
+6bo26bobo4bo6bobo$132b3oboobboo6boo$bboo127bo$bobo124bobb4oboo$bo126b
+3o3boboo$oo54bo74bo43boo$54b3o13bo15bo9bo33boo43bo$53bo16b3o13b3o5b3o
+79b3o$53boo18bo15bo3bo13boo69bo$72boo14boo3boo13bo$3boboo15boo83bo$b3o
+boo15boo83boo$o$b3oboo6boo$3bobo8bo$3bobo5b3o$4bo6bo17boo3bo27boo$19b
+oo8bo3bobo26boo46boo$19bo10bo3boo3boo69boo$20bo10bo6bobo$19boo8bob5obb
+o135boo$28bobo5bobo10boo99boo22boo$29bobboobboo12bo91boo5bobo16boo$30b
+oobo13b3o9boo75boo4bobo4bo18boo$47bo11bo19boo56bo6bo3boo$60bo17bobo11b
+oo6bo19boo12b3o7boo$59boo17bo13boo6b3o18bo12bo35boo$77boo24bo14b3o42b
+oo5boo$102boo14bo44boo!

@@ -1,0 +1,11 @@
+#C p8 blinker cleanup
+#C Larger version of the above, in which 8 gliders bounce between the
+#C blinker lines, consuming them with period 296 and speed 8c/37.  Any
+#C positive number of gliders may be used.
+#C Dean Hickerson, dean@math.ucdavis.edu (8/23/99)
+x = 17, y = 58
+9b4o$8b6o$8b4ob2o$12b2o4$11bo2bo$10bo4bo$10bo4bo$11b5o2$2bo$obo9b3o$b
+2o3b2o3b5o$5bobo3b3ob2o$7bo6b2o4$2bo$obo$b2o3b2o$5bobo$7bo4$2bo$obo$b
+2o3b2o$5bobo$7bo4$2bo$obo$b2o3$9b4o$8b6o$8b4ob2o$2bo9b2o$obo$b2o2$2bo
+3bo4bo2bo$2bo3bo3bo4bo$2bo3bo3bo4bo$11b5o3$12b3o$11b5o$11b3ob2o$14b2o!
+

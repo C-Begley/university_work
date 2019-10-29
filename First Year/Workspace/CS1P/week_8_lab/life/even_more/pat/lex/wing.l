@@ -1,0 +1,7 @@
+#C wing  The following induction coil.  This is generation 2 of
+#C    block and glider.
+	.**.
+	*..*
+	.*.*
+	..**
+

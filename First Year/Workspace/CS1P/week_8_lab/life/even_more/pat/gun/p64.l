@@ -1,0 +1,29 @@
+x = 126, y = 123
+68bo$66b3o$21bo20bo22bo26bo$20bobo7bo11b3o20b2o25b3o$21bo6b3o14bo49bo
+23b2o$27bo16b2o48b2o23bo$27b2o88bobo$75bo37b2o2b2o$75b3o35b2o$35bo42bo
+$15b2o18b2o13b2o25b2o11b2o10b3o$14bo21b2o11b2o39b2o8b2ob2o$7b2o6bo2bo
+17bo14bo48b2ob2o$8bo7bob2o11b3obo19bo3bo41b2o$8bobo20b3o23bo2b2o18bo$
+9b2o46bo3bo16b2obo$57bo3bo14b2obob2o$16b2o36b2o3b2o17bo$17b2o3b2o31b4o
+15bobo$17b2o3bobo6b2o24bo7b2o52b2o$24bo6bo20b2o11b2o7b2o25b2o16bobo$
+24b2o6bo20bo46bobo18bo$31b2o17b3o47bo20b2o$50bo48b2o4b2o6bo$104bobo5bo
+b2o$69b2o33bo7bobo$70bo32b2o8bo$20b2o45b3o20b2o$20bobo44bo22bo$11bo10b
+o68b3o$10b3o9b2o69bo$10bo2bo$12b2o$12bo$9b2o111b2o$4b2o3b4o109bo$3bobo
+4bo2bo106bobo$3bo7bo17b2o89b2o$2b2o25bo$10bobo14bobo$10b2o15b2o2$23bo
+78b2o$23bo79bo7b3o$103bobo6b2o$104b2o4bobo$110bo$108b2o$109bobo$110b2o
+$18b3o$17bo3bo$9b2o5bo$8bobo$8bo7bo3b2o$7b2o8b3o2$105b2o15b2o$105b2o
+15bobo$97b2o25bo$25b2o71bo25b2o$25bobo70bobo$2o25bo71b2o$bo25b2o$bobo
+15b2o$2b2o15b2o2$106b3o8b2o$104b2o3bo7bo$115bobo$109bo5b2o$104bo3bo$
+105b3o$14b2o$14bobo$16b2o$15bo$13bobo4b2o$12b2o6bobo$12b3o7bo79bo$22b
+2o78bo2$97b2o15b2o$96bobo14bobo$96bo25b2o$4b2o89b2o17bo7bo$3bobo106bo
+2bo4bobo$3bo109b4o3b2o$2b2o111b2o$113bo$112b2o$112bo2bo$32bo69b2o9b3o$
+32b3o68bo10bo$35bo22bo44bobo$34b2o20b3o45b2o$12bo8b2o32bo$11bobo7bo33b
+2o$10b2obo5bobo$12bo6b2o4b2o48bo$3b2o20bo47b3o17b2o$4bo18bobo46bo20bo
+6b2o$4bobo16b2o25b2o7b2o11b2o20bo6bo$5b2o52b2o7bo24b2o6bobo3b2o$49bobo
+15b4o31b2o3b2o$47bo17b2o3b2o36b2o$43b2obob2o14bo3bo$44bob2o16bo3bo46b
+2o$45bo18b2o2bo23b3o20bobo$23b2o41bo3bo19bob3o11b2obo7bo$21b2ob2o48bo
+14bo17bo2bo6b2o$21b2ob2o8b2o39b2o11b2o21bo$21b3o10b2o11b2o25b2o13b2o
+18b2o$47bo42bo$11b2o35b3o$7b2o2b2o37bo$6bobo88b2o$6bo23b2o48b2o16bo$5b
+2o23bo49bo14b3o6bo$31b3o25b2o20b3o11bo7bobo$33bo26bo22bo20bo$57b3o$57b
+o!
+#Period 64 B-heptomino-based glider gun
+#Aug 6, 1996 Dave Buckingham

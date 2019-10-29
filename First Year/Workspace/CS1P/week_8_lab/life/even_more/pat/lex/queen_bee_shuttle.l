@@ -1,0 +1,16 @@
+#C queen bee shuttle (p30)  Found by Bill Gosper in 1970.  There are a
+#C    number of ways to stabilize the ends.  Gosper originally stabilized
+#C    shuttles against one another in a square of eight shuttles.
+#C    Two simpler methods are shown here; for a third see buckaroo.
+#C    The queen bee shuttle is the basis of all known true p30 guns
+#C    (see Gosper glider gun).
+	.........*............
+	.......*.*............
+	......*.*.............
+	**...*..*.............
+	**....*.*.............
+	.......*.*........**..
+	.........*........*.*.
+	....................*.
+	....................**
+

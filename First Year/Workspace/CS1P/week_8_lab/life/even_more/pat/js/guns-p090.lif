@@ -1,0 +1,34 @@
+#CSome p90 glider guns.
+#C1 (top row). by Mark Niemiec 17 Jan 1996
+#C2. by Paul Rendell
+x = 125, y = 262, rule = B3/S23
+45bo43boo22bo$45b4o41bo22b4o$29bo16b4o40bobo4bo16b4o$28bobo15bobbo5boo
+34boo3bobo15bobbo5boo$26boo3bo14b4o5boo37boo3bo14b4o5boo$21boo3boo3bo
+13b4o45boo3bo13b4o$21boo3boo3bo13bo43bo4boo3bo13bo$28bobo58b3o4bobo$
+29bo62bo4bo$91boo4$35bo67bo$34bobo65bobo$34bobo54boo3boo4bobo$35bo55b
+oo3boo5bo$20boo$18bo3bo5bobb3o59b3o3b3o$12boo3bo5bo9bo3bo55b3o5bo$12b
+oobboobo3bo8bo4bobo16bo37bo5bo23bo$17bo5bo16boo4boo6bobo65bobo$18bo3bo
+17boo4boo7boo66boo$20boo18boo$37bobo$37bo$95b3o$95b3o$94bo3bo$$93boo3b
+oo10$96boo$96boo7$44boo$44bobbo$30bobo15bo$28bo3bobb3o10bo6boo$28bo19b
+o6boo$21boo4bo4bo7boobbobbo$21boo5bo7bobobbobboo$28bo3bo5b3o$30bobo3$
+35boo7bo$27bo7bobbo5bo$26bo3boo7bobbobo$26bo5bo6bobbo$27b5o7bo3bo$35bo
+bbo$35boo$$55bo$53bobo$28boo24boo$26bo3bo5bobb3o$20boo3bo5bo9bo3bo$20b
+oobboobo3bo8bo4bobo$25bo5bo16boo$26bo3bo17boo4boo$28boo18boo4boo$45bob
+o$45bo20$52boo6bo$52bo5b3o$43boo5bobo4bo$42bobo5boo5boo$28bo12b3o$28b
+4o8b3o$18boo9b4o8b3o$18boo9bobbo9bobo$23bo5b4o10boo$23bo4b4o8bo11boo3b
+oo$28bo12bo13bo$39b3o10bo5bo$53booboo$54bobo$55bo$55bo$$48bo$46bobo13b
+oo$47boo12bobo$39boo19b3o4boo$37bo4bo16b3o4bobb4o$36bo6bo16b3o4boob3o$
+35bo8bo16bobo$35bo8bo17boo$35bo8bo$36bo6bo$37bo4bo10bo$39boo10bobo$52b
+oo21$8boo$8boo4$8bo$7bobo$6bo3bo$7b3o$5boo3boo5$6bo$6bo$6bob3o$$11bo$
+8boboo65bo$8boo66b4o$59boo14boobobo$59bobbo11b3obobbobboo$3boo3boo41b
+5o7bo11boobobo3boo$3boo3boo40bo5bo6bo12b4o$4b5o7bo33bo3boo7bo7bo5bo$5b
+obo9bo33bo7bobbo9bo$15b3o41boo9b3o$5b3o45bo$53b3o$56bo$3bo51boo$bbobo$
+bbobo10boo7bo45boo7bo$3bo12boo4bobo46boo4bobo$15bo7boo45bo7boo$$oobob
+oo48booboboo$o5bo48bo5bo$bo3bo50bo3bo$bb3o3bo13boo33b3o3bo13boo$8boo
+12bobo38boo12bobo$7bobo14bo37bobo14bo$14boo8boo43boo8boo$14boo53boo4$
+5bo54bo$5bo54bo$4bobo52bobo$3booboo50booboo$bbo5bo48bo5bo$5bo54bo$bboo
+3boo48boo3boo3$4bo54bo$4bo54bo$3bo54bo3$5boo53boo$5boo53boo21$28bobo$
+26bo3bo$18bo7bo$17b4o4bo4bo8boo$16boobobo4bo12boo$5boo8b3obobbo3bo3bo$
+5boo9boobobo6bobo$17b4o$18bo$29bo$27bobo$28boo3$30boo$29bobo$31bo4$13b
+o8boo$11bobo6bobbo$4boo4bobo7bo3bobboo$4boo3bobbo7bobboobb3o$10bobo16b
+oobo$11bobo4b3o8bobbo$13bo15boobo$27b3o6boo$27boo7bobo$38bo$38boo!
