@@ -1,8 +1,0 @@
-#C blinkers bit pole (p2)  Found by Robert Wainwright, June 1977.
-	.....**
-	***.*.*
-	.......
-	.*.*..*
-	*....*.
-	**...*.
-

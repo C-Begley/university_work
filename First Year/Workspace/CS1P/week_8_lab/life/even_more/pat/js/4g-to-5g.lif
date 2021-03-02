@@ -1,6 +1,0 @@
-#C4 gliders synthesize 5 gliders
-#Cleft: Dieter Leithner, 19 Jul 1992
-#Cright: Dieter Leithner, 21 Sep 1996
-x = 168, y = 34, rule = B3/S23
-165bobo$165boo$166bo3$obo$boo$bo17$140bo$138bobobbo$124bo14boobbobo$
-124boo17boo$123bobo$17bo$15bobobbo$16boobbobo20bo$20boo20boo$42bobo!

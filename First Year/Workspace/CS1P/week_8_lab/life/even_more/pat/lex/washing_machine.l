@@ -1,9 +1,0 @@
-#C washing machine (p2)  Found by Robert Wainwright before June 1972.
-	.**.**.
-	*.**..*
-	**....*
-	.*...*.
-	*....**
-	*..**.*
-	.**.**.
-

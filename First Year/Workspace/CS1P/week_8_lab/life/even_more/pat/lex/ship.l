@@ -1,5 +1,0 @@
-#C ship (p1)  The term is also used as a synonym of spaceship.
-	**.
-	*.*
-	.**
-

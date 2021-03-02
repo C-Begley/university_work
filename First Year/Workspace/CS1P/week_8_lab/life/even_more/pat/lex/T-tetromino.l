@@ -1,4 +1,0 @@
-#C T-tetromino  The following common predecessor of a traffic light.
-	***
-	.*.
-

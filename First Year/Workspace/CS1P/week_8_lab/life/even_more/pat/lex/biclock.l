@@ -1,9 +1,0 @@
-#C biclock  The following pure glider generator.
-	..*....
-	**.....
-	..**...
-	.*...*.
-	...**..
-	.....**
-	....*..
-

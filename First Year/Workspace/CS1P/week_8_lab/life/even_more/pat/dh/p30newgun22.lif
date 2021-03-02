@@ -1,9 +1,0 @@
-#C p300 gun
-#C 18- collision + eater.  Without the eater, this also produces a
-#C p150 glider stream.  [Discoverer unknown]
-x = 51, y = 46
-44b2o$44b2o6$25b2o$23bo2bo$10bobo9bo19b2o3b2o$10bo3bo7bo11b2o7b5o$14bo
-7bo11b2o8b3o$2o13bo7bo2bo18bo$2o12bo10b2o$10bo3bo$10bobo8bobo$22b2o$
-22bo2$44bo$42b2o$43b2o5$44b2o3b2o$46b3o$45bo3bo$46bobo$47bo3$37bo$38bo
-7b2o$36b3o7b2o7$20b2o$19bobo$19bo$18b2o!
-

@@ -1,5 +1,0 @@
-#C very long house  The following induction coil.
-	.*****.
-	*..*..*
-	**...**
-

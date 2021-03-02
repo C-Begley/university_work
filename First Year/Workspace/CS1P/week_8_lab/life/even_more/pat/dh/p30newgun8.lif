@@ -1,8 +1,0 @@
-#C perpendicular glider streams, a p150 and a p300.
-#C Dean Hickerson, dean@math.ucdavis.edu (2/90)
-x = 51, y = 46
-5b2o$5b2o6$26b2o$25bobo$24bo13bobo$5bo9b2o7bo2bo6b2o2bo2bo$4b3o8b2o7bo
-8bobo5b2o$3b5o17bobo3bo3bo3bo3b2o4b2o$2b2o3b2o17b2o2b2ob3o5b2o6b2o$3b
-5o25b2o3bo2bo$3bo3bo30bobo$4bobo$5bo3$3bo$b2ob2o2$o5bo2$2obob2o9$3b2o$
-3b2o7$20b2o$20bo$21b3o$23bo!
-

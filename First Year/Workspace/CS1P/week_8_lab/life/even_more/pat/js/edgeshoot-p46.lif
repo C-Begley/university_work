@@ -1,6 +1,0 @@
-#Cp46 edge shooter, minimum dx = 4, unrestricted dx = 9
-#CDieter Leithner, 1 Jun 1996
-x = 42, y = 34, rule = B3/S23
-14bo$12bobbo$oo10b5o10boo$oo10b3oboo9boo$13boobo$14boo$$14boo22bo$13b
-oobo21bo$oo10b3oboo$oo10b5o13boo9bo$12bobbo16bo6bobo$14bo15boo8boo10$
-30b3o5b3o$30bobbooboobbo$31b3o3b3o$32bo5bo7$31boo5boo$31boo5boo!

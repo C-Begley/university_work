@@ -1,9 +1,0 @@
-#C p12 oscillator consisting of p6
-#C domino sparker and p5 fumarole
-#CStephen Silver, 26 Jan 2000
-#C(based on work by Noam Elkies)
-x = 31, y = 16, rule = B3/S23
-10booboobboo$11bobobobbo$11bo3booboboo$9boob3o3bobbo$10bo5boobo$bboo6b
-oboboo3boo5booboo$boobbo5b3o3boo3bo7bo$bbobobobobobbobobobo5bobboo$o3b
-obobob4oboobbo3bobb3o$4obboboo3bobo7bobb3o$6boo3boobbob3o5bobboo$bboo
-5boo4bobo4bo7bo$bboobb3obo3booboboo5booboo$6bo10bobo$17bobo$18bo!

@@ -1,3 +1,0 @@
-SELECT Exam
-FROM Takes NATURAL JOIN Course
-WHERE Title = 'CS-1Q'
