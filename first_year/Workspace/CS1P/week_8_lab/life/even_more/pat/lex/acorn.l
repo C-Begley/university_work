@@ -1,0 +1,6 @@
+#C acorn (stabilizes at time 5206)  A methuselah found by Charles
+#C    Corderman.
+	.*.....
+	...*...
+	**..***
+

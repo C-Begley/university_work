@@ -1,0 +1,43 @@
+1shot8		3 version loop version for converting a glider into 8. A direct method now found in mem8ma.
+Herschel	Some attempts to tame the hershel.
+Via			P30 glider streams crossing each other.
+fan			A collection of fan-out patterns. Patterns which duplicate a glider gun stream.
+g2gp90		collection of NOT P90 guns (series 101)
+g3gunlst	Variation on the Gosper Gun using 3 queen bees.
+ggp60 		P60 glider guns
+ggp90 		P90 glider guns One is smaller than Dieter & Peters version
+gploop		A loop using the take out reaction with a lot of fiddling with pentadecathlons.
+ho			Some ways to tame the house.
+hwss		P60 hwss not compressed uses hammer.
+inv			Inverters just a little more complex than a simple glider glider collision.
+latch		Some set reset latches. One has P60 output.
+lwss2g		Patterns to convert an lwss to a glider
+lwss2m		Convert lwss with pentadecatholon and glider. This works upto P60.
+lwss2m2h	Hammer reactions P30 version not compressed.
+lwssb2b		Back to back loops using the 2 lwss to 2 glider reaction.
+lwssfans	Some loops with an lwss. P30*5, P30*7 & p30*8.
+lwssgen		Some LWSS precursors.
+lwsslatch	lwss glider reflector reactions used for a poor loop which can be turned on and off. O/P is trapped in these examples.
+lwssloop	The Glider LWSS loop with no gun.
+lwssp120	An old lwss gun
+lwssp60		Some old lwss guns.
+mem8ma		Memory Cell with 8 gliders which is matrix addressable. The addressing is provided by an lwss and a glider which collide after passing the cell. The resulting glider blasts an 8 glider hole in the gate. This allows the pattern cycling in the cell to come out. The core of the cell is the fan out unit which duplicates the pattern of gliders. One copy is looped round to form the input and the other is the output.  The fan out unit is constructed from the reflecting behaviour of the queen bee. Putting two of these back to back allows one to stabilise the other if no glider arrives. This stabilisation is at the cost of Its reflected glider resulting in the same pattern.
+mwss180		P180 mwss gun.
+mwss2g		mwss to glider reactions
+mwss2l		mwss to lwss hammer reaction does not work!
+mwssbnd		A MWSS reflector. Not true. Not stable. i.e. Rubbish.
+mwsscell	rather useless glider loop created by an mwss
+mwssp60		the top version will make any p60 multiple
+nor			NOT OR gates
+notxor		NOT XOR gate
+odds		Odd fragments involving gliders including a pentadecathlon precursor.
+offset		Generates a glider stream with half of the gliders offset by a bit.
+osc8		A list of oscillators
+p1			Still Life
+pairlist	Two patterns which create pairs of gliders. One is P60 and the other P90.
+ref1f2		reflect pairs of gliders. Two go in and one comes out.
+reflect		Some glider reflectors including some inverting versions.
+refp60		reflect P60 gliders
+rt			re time a glider stream
+rtp60		re time a glider P60 glider stream
+toggle		A Latch with the same operation for Set and Reset.

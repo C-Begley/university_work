@@ -1,0 +1,7 @@
+cabal: Entering directory '/tmp/cabal-tmp-5190/http-client-tls-0.3.5.3'
+Configuring http-client-tls-0.3.5.3...
+Preprocessing library for http-client-tls-0.3.5.3..
+Building library for http-client-tls-0.3.5.3..
+[1 of 1] Compiling Network.HTTP.Client.TLS ( Network/HTTP/Client/TLS.hs, dist/dist-sandbox-43a7003/build/Network/HTTP/Client/TLS.o )
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/http-client-tls-0.3.5.3-Ubpr6mg1RLIvJvtmg4lus
+cabal: Leaving directory '/tmp/cabal-tmp-5190/http-client-tls-0.3.5.3'

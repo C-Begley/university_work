@@ -1,0 +1,9 @@
+#C p210 gun
+#C 10- collision + eater
+#C Dean Hickerson, dean@math.ucdavis.edu (2/90)
+x = 38, y = 41
+25bo$23bobo$14bo7bobo$13b2o6bo2bo11b2o$12b2o4b2o2bobo11b2o$2b2o7b3o4b
+2o3bobo$2b2o8b2o4b2o5bo$13b2o$14bo$26bo$27bo$25b3o18$31b2o$9b2o9b3o8bo
+$9bo2bo9bo9b3o$2o11bo7bo5bo6bo$2o11bo12b4o$13bo11b2obobo$9bo2bo11b3obo
+2bo$9b2o14b2obob2o$26b4ob3o$27bo4bobo$34bo$34b2o!
+

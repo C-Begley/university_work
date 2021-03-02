@@ -1,0 +1,17 @@
+#C July 2001   Scot Ellison
+x = 202, y = 71, rule = B3/S23
+138bo44bo$65boo69b3o44b3o$65boo45bo22bo30boo18bo$112b3o20boo30bo17boo$
+115bo38bo11bo$63boo49boo38b3o9boo$63boo92bo$50boo43bo36boo10boo10boo
+40boobo$51bo43b3o47bo52boboo$51bobo44bo46bobo$52boo43boo11boo34boo$48b
+oo60boo57boo$48boo119boo$195booboo$195bo3bo$196b3o$194bobo$139bo3boo
+49boo$136bo3boboobo$61boo72bobbobo4boo$61boo59boo11boobb3obboo14boo$
+54boo67bo16boo18bo$53bobbo15boo46b3o38b3o$54boo15bobbo45bo42bo$71bobo
+23boo48boo$72bo20bo3boo44bo3boo$92bobo47bobo$91bobo16boo29bobo$91bo18b
+o30bo$90boo19b3o26boo$113bo$54boo$54boo6$146boo$146boo$88bo$60boo26b3o
+19boo$60bo30bo18bo$58bobo29boo16bobo$57bobo47bobo$53boo3bo44boo3bo20bo
+$53boo48boo23bobo$38bo42bo45bobbo15boo$38b3o38b3o46boo15bobbo$41bo18b
+oo16bo67boo$40boo14boobb3obboo11boo59boo$55boo4bobobbo72boo$56boboobo
+3bo$6boo49boo3bo$5bobo$3b3o$bbo3bo$bbooboo$31boo119boo$31boo57boo60boo
+$54boo34boo11boo43boo$54bobo46bo44bobo$oobo52bo47b3o43bo$oboo40boo10b
+oo10boo36bo43boo$44bo92boo$34boo9b3o89boo$35bo11bo$15boo17bo30boo$15bo
+18boo30bo24bo43boo$16b3o44b3o26bo42boo$18bo44bo26b3o!

@@ -1,0 +1,8 @@
+cabal: Entering directory '/tmp/cabal-tmp-5190/scalpel-0.6.0'
+Configuring scalpel-0.6.0...
+Preprocessing library for scalpel-0.6.0..
+Building library for scalpel-0.6.0..
+[1 of 2] Compiling Text.HTML.Scalpel.Internal.Scrape.URL ( src/Text/HTML/Scalpel/Internal/Scrape/URL.hs, dist/dist-sandbox-43a7003/build/Text/HTML/Scalpel/Internal/Scrape/URL.o )
+[2 of 2] Compiling Text.HTML.Scalpel ( src/Text/HTML/Scalpel.hs, dist/dist-sandbox-43a7003/build/Text/HTML/Scalpel.o )
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/scalpel-0.6.0-AWNLIdwtvjzGDue31EP7kk
+cabal: Leaving directory '/tmp/cabal-tmp-5190/scalpel-0.6.0'

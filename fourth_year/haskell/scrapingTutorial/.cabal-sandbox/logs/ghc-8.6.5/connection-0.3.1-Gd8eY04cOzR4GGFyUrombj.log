@@ -1,0 +1,8 @@
+cabal: Entering directory '/tmp/cabal-tmp-5190/connection-0.3.1'
+Configuring connection-0.3.1...
+Preprocessing library for connection-0.3.1..
+Building library for connection-0.3.1..
+[1 of 2] Compiling Network.Connection.Types ( Network/Connection/Types.hs, dist/dist-sandbox-43a7003/build/Network/Connection/Types.o )
+[2 of 2] Compiling Network.Connection ( Network/Connection.hs, dist/dist-sandbox-43a7003/build/Network/Connection.o )
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/connection-0.3.1-Gd8eY04cOzR4GGFyUrombj
+cabal: Leaving directory '/tmp/cabal-tmp-5190/connection-0.3.1'

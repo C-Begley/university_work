@@ -1,0 +1,10 @@
+#C p180 gun
+#C 11- collision + block + snake.  Without the snake it produces
+#C 3 gliders per period, on 2 paths.
+#C Dean Hickerson, dean@math.ucdavis.edu (2/90)
+x = 41, y = 34
+27bo$25bobo$15b2o6b2o$14bo3bo4b2o12b2o$13bo5bo3b2o12b2o$3b2o8bo3bob2o
+4bobo$3b2o8bo5bo7bo$14bo3bo$15b2o$26bo$27b2o$26b2o5$20b2o$20b2o$37bob
+2o$37b2obo$23b3o$25bo$24bo$12bo$11b2o$2o8b2o4b2o5bo$2o7b3o4b2o3bobo$
+10b2o4b2o2bobo$11b2o6bo2bo$12bo7bobo$21bobo8b2o$23bo8bobo$34bo$34b2o!
+

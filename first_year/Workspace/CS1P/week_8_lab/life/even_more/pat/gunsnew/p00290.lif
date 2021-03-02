@@ -1,0 +1,20 @@
+#C p00290 found using Karel Suhajda's Hersrch program
+#C Scot Ellison - May 2003
+x = 112, y = 84, rule = B3/S23
+95boo$92boobbo$90b3oboo6bo$49bo39bo10b3o$29bo19b3o38b3oboo3bo$28bobo7b
+o13bo17boo6boo12boboo3boo$29bo6b3o12boo17boo4bobbo$18bo16bo40booboboo$
+18b3o7bo6boo42bobobo$21bo5b3o46boobo3bo$20boo3boobbo46boobbobboo19boo$
+25bobbo3b3o44boo23bo$28bobo4bo66bobo$26bo8bo50boo14boo$15boo10boo5boo
+6boo42boo$16bo11bo13boo$16bobo10bo3bo65boo$17boo12bo67boo3$30boo62bobo
+$30bobo6boo32boo17b3ob3o$32bo6bo20boo11boo21boo$32boo6bo20bo34bo6boo$
+39boo17b3o42boo$58bo35bobo$94bobo$94bobo$$28boo$28bobo$30bo59b3o$30boo
+49boboo5bobboo$81boobo5boobo$102boo$92bo8bobbobboo$90boo9bobo4bo$12boo
+88bo5boboo$11bobo91boobobo$5bobbobbo38bo54bobbobbo$5b7o36b3o51bo4bobb
+oo$47bo15boo37b5o$5b5o37boo15bo$oobbo4bo51b3o36b7o$obbobbo54bo38bobbo
+bbo$boboboo91bobo$oobo5bo88boo$3bo4bobo9boo$3boobbobbo9boo$8boo$27bob
+oo$27boobo49boo$81bo$81bobo$82boo4$53bo$7boo42b3o17boo$7boo41bo20bo6b
+oo$25bo11boo11boo20bo6bo$25b3o9boo32boo6bobo$25bobo52boo$27bo$$93boo$
+93bobo$68boo25bo$68boo25boo$8boo$7bobo$7bo23boo$6boo19boobbobboo54boo$
+28bo3boboo54bo$28bobobo42boo14b3o$29booboboo40bo16bo$32bobbo4boo31b3o
+6bo$11boo3boobo12boo6boo31bo7bobo$12bo3boob3o60bo$9b3o10bo$9bo6boob3o
+43bo$15bobboo46bo$15boo47b3o!

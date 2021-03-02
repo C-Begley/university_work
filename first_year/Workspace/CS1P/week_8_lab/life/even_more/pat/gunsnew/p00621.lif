@@ -1,0 +1,24 @@
+#C p00621 found using Karel Suhajda's Hersrch program
+#C Scot Ellison  June 2003
+#C Row shaved with David Eppstein's help.
+x = 110, y = 109, rule = B3/S23
+79bo$45boo7boo21b3o$18bo25bobo7boo20bo$18b3o21b3obobo27boo$21bo19bo5b
+oo39bo$20boo19boo45b3o$91bo14bo$90boo12b3o$103bo$103boo$$14boo$13bobo
+69b3o14boo$9boobbo71bo16boo$9boboboo70boo$11bo3bo$8bobb5o$8b3obbobo$
+11bo$10bobbobbo$11b6o69boo$87bo$13boo70bo$13boo70boo$89boo$56boo32bo$
+56bo30b3o$57b3o27bo$59bo3$6boo$7bo73bo$7bobo71b3o$5booboo74bo24bo$6bo
+76boo14boo6bobo$4bobo92boo7boo$bb3oboo20boo$bo26bo$obbooboo18bobo$boob
+oboo18boo$bbo$bbo$boobo$obboo$oo23boo$25bo$26b3o49booboobboo$28bo50bob
+obbobo13boo$78bo3boo16bobo$68bobo8boobo19bo$3boo63boobo8bobobbo16boo$
+4bo66b3o5bobbobobo$b3o64boo4bobbobb3oboo$bo56boo8bob5obb3o$59bo10bo9bo
+$28boo28bo10bo3boo4boo18bo$28bo29boo8bo3bobo23boo$26bobo14bo6bo17boo3b
+o$26boo14bobo5b3o43b3obbo$42bobo8bo44bobobo$40b3oboo6boo45bobbo$39bo
+60boo$40b3oboo15boo$42boboo15boo$93boo$92bobbobboo$92bobo4bo$93bo5bob
+oo$39boo55boobobo$40bo55bobbobbo$25boo13bobo50bo4bobboo$9boo14boo14boo
+50b5o$10bo22boo$7b3o23bo61boobo$7bo5boo16bobo61boboo$14bo16boo$14bobo$
+15boo82bo$98bobo$18bo79bobo$84boo11boob3o$50boo32boo17bo$44boobo3bo45b
+oob3o$44bob5o10boo34boobo$40bo16boobboo$40b3o5b3obboobobo$43bo3bo3bobb
+obo7bo$42boo3boobboobboo5b3o$61bo$61boo$11boo$11boo$108boo$54bo53boo$
+53bobo$16boo34bo5boo4boo$16boo33bo5bobbo3boo$12boo34boobbobo3boo$12boo
+34boo3bo4bo$$95boo$18boo75bo$18boo13boo61b3o$32bobo11boo6bo43bo$32bo
+13boo6b3o16boo$31boo24bo16bo$56boo13b3o$71bo!

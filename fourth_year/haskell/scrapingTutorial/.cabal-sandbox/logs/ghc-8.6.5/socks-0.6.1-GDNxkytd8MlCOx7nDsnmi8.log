@@ -1,0 +1,13 @@
+cabal: Entering directory '/tmp/cabal-tmp-5191/socks-0.6.1'
+Configuring socks-0.6.1...
+Preprocessing library for socks-0.6.1..
+Building library for socks-0.6.1..
+[1 of 7] Compiling Network.Socks5.Parse ( Network/Socks5/Parse.hs, dist/dist-sandbox-43a7003/build/Network/Socks5/Parse.o )
+[2 of 7] Compiling Network.Socks5.Types ( Network/Socks5/Types.hs, dist/dist-sandbox-43a7003/build/Network/Socks5/Types.o )
+[3 of 7] Compiling Network.Socks5.Conf ( Network/Socks5/Conf.hs, dist/dist-sandbox-43a7003/build/Network/Socks5/Conf.o )
+[4 of 7] Compiling Network.Socks5.Wire ( Network/Socks5/Wire.hs, dist/dist-sandbox-43a7003/build/Network/Socks5/Wire.o )
+[5 of 7] Compiling Network.Socks5.Command ( Network/Socks5/Command.hs, dist/dist-sandbox-43a7003/build/Network/Socks5/Command.o )
+[6 of 7] Compiling Network.Socks5.Lowlevel ( Network/Socks5/Lowlevel.hs, dist/dist-sandbox-43a7003/build/Network/Socks5/Lowlevel.o )
+[7 of 7] Compiling Network.Socks5   ( Network/Socks5.hs, dist/dist-sandbox-43a7003/build/Network/Socks5.o )
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/socks-0.6.1-GDNxkytd8MlCOx7nDsnmi8
+cabal: Leaving directory '/tmp/cabal-tmp-5191/socks-0.6.1'

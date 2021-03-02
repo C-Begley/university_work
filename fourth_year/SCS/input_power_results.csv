@@ -1,0 +1,5 @@
+failure,failure_effect,severity,occurrence,detection_method,detection_index,mitigation,RPN,liklihood,event
+Gradual,"Soil is eroded on and away , making the power lines supports uneven and risk touching surroundings",5,5,Manual inspections,4,Reinforce surrounding areas,100,probable,soil_erosion
+Intermittent,"Intense rain water logs land and cover track in water, ",6,6,Rainfall meters,5,Raise height of power lines,180,probable,land_flooding
+Gradual,small landslides damage(falling rocks) power lines,6,5,Inspections of tracks,4,Invest in landslide nets,120,probable,landslide
+Gradual,Increase in temperature could cause power lines to sage,4,6,Temperature sensors,2,Reduce transmissions values. Readjust time schedule to avoid warmest time of day,48,probable,temp

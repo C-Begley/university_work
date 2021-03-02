@@ -1,0 +1,7 @@
+     load   R1,x[R0]  bad shouldn't save
+     load   R2,y[R0]
+     div    R3,R1,R2
+     trap   R0,R0,R0
+
+x    data  19
+y    data   4

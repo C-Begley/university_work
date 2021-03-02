@@ -1,0 +1,17 @@
+cabal: Entering directory '/tmp/cabal-tmp-5190/x509-system-1.6.6'
+Configuring x509-system-1.6.6...
+Preprocessing library for x509-system-1.6.6..
+Building library for x509-system-1.6.6..
+[1 of 3] Compiling System.X509.MacOS ( System/X509/MacOS.hs, dist/dist-sandbox-43a7003/build/System/X509/MacOS.o )
+
+System/X509/MacOS.hs:8:1: warning: [-Wunused-imports]
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+  |
+8 | import Control.Applicative
+  | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2 of 3] Compiling System.X509.Unix ( System/X509/Unix.hs, dist/dist-sandbox-43a7003/build/System/X509/Unix.o )
+[3 of 3] Compiling System.X509      ( System/X509.hs, dist/dist-sandbox-43a7003/build/System/X509.o )
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/x509-system-1.6.6-6uyfJ28yiJWKTbaMexlbi
+cabal: Leaving directory '/tmp/cabal-tmp-5190/x509-system-1.6.6'

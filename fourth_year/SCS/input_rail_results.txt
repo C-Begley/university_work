@@ -1,0 +1,59 @@
+{
+    "sea_flood": "Not an issue",
+    "soil_erosion": {
+        "failure": "Gradual",
+        "failure_effect": "Soil is eroded on and away from tracks, making the tracks uneven",
+        "severity": 5,
+        "occurrence": 5,
+        "detection_method": "Manual inspections",
+        "detection_index": 4,
+        "mitigation": "Reinforce surrounding areas",
+        "RPN": 100,
+        "liklihood": "probable"
+    },
+    "river_flooding": "Not an issue",
+    "land_flooding": {
+        "failure": "Intermittent",
+        "failure_effect": "Intense rain water logs land and cover track in water, slowing trains",
+        "severity": 6,
+        "occurrence": 6,
+        "detection_method": "Rainfall meters",
+        "detection_index": 5,
+        "mitigation": "Invest in more drainage for area",
+        "RPN": 180,
+        "liklihood": "probable"
+    },
+    "landslide": {
+        "failure": "Gradual",
+        "failure_effect": "small landslides damage(falling rocks) tracks",
+        "severity": 4,
+        "occurrence": 5,
+        "detection_method": "Inspections of tracks",
+        "detection_index": 7,
+        "mitigation": "Invest in landslide nets",
+        "RPN": 140,
+        "liklihood": "probable"
+    },
+    "track_erosion": {
+        "failure": "Gradual",
+        "failure_effect": "Ballast is washed away making tracks too unstable to run trains on",
+        "severity": 7,
+        "occurrence": 7,
+        "detection_method": "Rainfall meters and vibration sensors",
+        "detection_index": 5,
+        "mitigation": "Regularly check ballast and consider adding cages",
+        "RPN": 245,
+        "liklihood": "frequent"
+    },
+    "temp": {
+        "failure": "Intermittent",
+        "failure_effect": "Tracks get too hot for trains to run without damaging tracks",
+        "severity": 6,
+        "occurrence": 4,
+        "detection_method": "Temperature sensors",
+        "detection_index": "2",
+        "mitigation": "Readjust time schedule to avoid warmest time of day",
+        "RPN": 48,
+        "liklihood": "frequent"
+    }
+}

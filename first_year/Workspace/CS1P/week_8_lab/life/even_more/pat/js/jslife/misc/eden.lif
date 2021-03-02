@@ -1,0 +1,10 @@
+#CA "Garden of Eden" pattern that fits in a 12x13 box.
+#CAchim Flammenkamp, 14 Jun 2004
+#C
+#CThis pattern doesn't do anything interesting;
+#Cthe point is that it's probably the smallest known
+#Cpattern that cannot be the second generation
+#Cof some other pattern.
+x = 13, y = 12, rule = B3/S23
+bbob3o$oobob5obo$oboboobobo$b4obob3o$oboboob3obo$b3oboobobo$bbo3b3obb
+oo$bobooboboboo$3ob4obobo$bob4o3bo$boboboobbo$boobobboobbo!

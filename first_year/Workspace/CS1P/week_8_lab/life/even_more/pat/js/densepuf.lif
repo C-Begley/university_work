@@ -1,0 +1,17 @@
+#CHartmut Holzwart, May 1995
+x = 23, y = 97, rule = B3/S23
+7bo$4b4o$4boo$bbo$bb4o$bo$3obbo$b3o$bbo$3b3obo14bo$3bobboo11b4o$4b3o
+12b3o$6bo10bo3bo$4bo12b3o$4bobo7bobo4bo$3bo9b8o$4bobo5boo$4bo6b3o3boo$
+6bo5b3o3bobbo$4b3o7bo4bobo$3b3o6bo$4boo6bobo$5boobbobo$6boobobo$11bo4b
+o$6boobobo5bo$5boobbobo5bo$4boo5bo5bo$3boobobbobo6bo$bbobb3obobo6bo$bb
+o8bo6bo$bbobb3obobo5bo$3boobobbobo5bo$4boo5bo5bo$5boobbobo5bo$6boobobo
+6bo$11bo6bo$6boobobo6bo$5boobbobo5bo$4boo5bo5bo$3boobobbobo5bo$bbobb3o
+bobo5bo$bbo8bo6bo$bbobb3obobo6bo$3boobobbobo6bo$4boo5bo5bo$5boobbobo5b
+o$6boobobo5bo$11bo5bo$6boobobo6bo$5boobbobo6bo$4boo5bo6bo$3boobobbobo
+5bo$bbobb3obobo5bo$bbo8bo5bo$bbobb3obobo6bo$3boobobbobo6bo$4boo5bo6bo$
+5boobbobo5bo$6boobobo5bo$11bo5bo$6boobobo6bo$5boobbobo6bo$4boo5bo6bo$
+3boobobbobo5bo$bbobb3obobo5bo$bbo8bo5bo$bbobb3obobo5bo$3boobobbobo6bo$
+4boo5bo6bo$5boobbobo6bo$6boobobo5bo$11bo5bo$6boobobo5bo$5boobbobo4bo$
+4boo5bo$3b3o5bo$4b3o5bobo$6bo5bo$4bo9bo4bobo$4bobo5b3o3bobbo$3bo7b3o3b
+oo$4bobo5boo$4bo8b8o$6bo7bobo4bo$4b3o10b3o$3bobboo9bo3bo$3b3obo11b3o$
+bbo16b4o$b3o18bo$3obbo$bo$bb4o$bbo$4boo$4b4o$7bo!

@@ -1,0 +1,6 @@
+failure,failure_effect,severity,occurrence,detection_method,detection_index,mitigation,RPN,liklihood,event
+Gradual,"Soil is eroded on and away from tracks, making the tracks uneven",5,5,Manual inspections,4,Reinforce surrounding areas,100,probable,soil_erosion
+Intermittent,"Intense rain water logs land and cover track in water, slowing trains",6,6,Rainfall meters,5,Invest in more drainage for area,180,probable,land_flooding
+Gradual,small landslides damage(falling rocks) tracks,4,5,Inspections of tracks,7,Invest in landslide nets,140,probable,landslide
+Gradual,Ballast is washed away making tracks too unstable to run trains on,7,7,Rainfall meters and vibration sensors,5,Regularly check ballast and consider adding cages,245,frequent,track_erosion
+Intermittent,Tracks get too hot for trains to run without damaging tracks,6,4,Temperature sensors,2,Readjust time schedule to avoid warmest time of day,48,frequent,temp

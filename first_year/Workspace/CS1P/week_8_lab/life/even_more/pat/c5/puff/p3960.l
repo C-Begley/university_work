@@ -1,0 +1,39 @@
+x = 530, y = 107
+44bo3b3o5b3o3bo404bo3b3o5b3o3bo$41boob5oboo3boob5oboo398boob5oboo3boob
+5oboo$39boboobo5bobobobo5boboobo394boboobo5bobobobo5boboobo$38bo3bobo
+3b5ob5o3bobo3bo392bo3bobo3b5ob5o3bobo3bo$42b3o5boo3boo5b3o400b3o5boo3b
+oo5b3o$39bobbob3o13b3obobbo391bobbobbob3o13b3obobbo$41bo23bo393boo3bo
+23bo$458bobo26$40bo5boo5boo5bo408bo5boo5boo5bo$38bobbooboobbo3bobboob
+oobbo404bobbooboobbo3bobbooboobbo$36b3o4bobo3bobo3bobo4b3o400b3o4bobo
+3bobo3bobo4b3o$36boobbobb3oboo3boob3obbobboo400boobbobb3oboo3boob3obbo
+bboo$36b3obb3o4bo3bo4b3obb3o400b3obb3o4bo3bo4b3obb3o$37bobobbo15bobbob
+o402bobobbo15bobbobo$38bo23bo404bo23bo3$427boo$426bobo$428bo3$37bo5boo
+5boo5bo414bo5boo5boo5bo$35bobbooboobbo3bobbooboobbo410bobbooboobbo3bo
+bbooboobbo$33b3o4bobo3bobo3bobo4b3o406b3o4bobo3bobo3bobo4b3o$33boobbo
+bb3oboo3boob3obbobboo406boobbobb3oboo3boob3obbobboo$33b3obb3o4bo3bo4b
+3obb3o406b3obb3o4bo3bo4b3obb3o$34bobobbo15bobbobo408bobobbo15bobbobo$
+35bo23bo410bo23bo11$100boo5boo312boo5boo$92b4obobobo5bobobob4o296b4obo
+bobo5bobobob4o$91b3oboboboobo3boboobobob3o294b3oboboboobo3boboobobob3o
+$91bo3bobo13bobo3bo294bo3bobo13bobo3bo$92bob3o5booboo5b3obo296bob3o5b
+ooboo5b3obo$92boo21boo296boo21boo$92b5o15b5o296b5o15b5o$95boo15boo302b
+oo15boo15$6bo3b3o5b3o3bo480bo3b3o5b3o3bo$3boob5oboo3boob5oboo474boob5o
+boo3boob5oboo$boboobo5bobobobo5boboobo470boboobo5bobobobo5boboobo$o3bo
+bo3b5ob5o3bobo3bo468bo3bobo3b5ob5o3bobo3bo$4b3o5boo3boo5b3o476b3o5boo
+3boo5b3o$bobbob3o13b3obobbo470bobbob3o13b3obobbo$3bo23bo474bo23bo8$49b
+o5boo5boo5bo390bo5boo5boo5bo$47bobbooboobbo3bobbooboobbo386bobbooboobb
+o3bobbooboobbo$45b3o4bobo3bobo3bobo4b3o382b3o4bobo3bobo3bobo4b3o$45boo
+bbobb3oboo3boob3obbobboo382boobbobb3oboo3boob3obbobboo$45b3obb3o4bo3bo
+4b3obb3o382b3obb3o4bo3bo4b3obb3o$46bobobbo15bobbobo384bobobbo15bobbobo
+$47bo23bo386bo23bo!
+
+A period 3960 c/5 puffer.
+This puffer is constructed from 12 c/5 "spider" spaceships and a pair
+of gliders.  The first glider is turned into a block by a spider.
+The block is hit by the second glider to create a "slow death" pattern.
+Further spiders perturb the slow death to create a Herschel plus some
+junk.  The Herschel emits its normal glider, and a perturbation of the
+Herschel creates a second glider.  These two gliders then repeat the
+whole reaction on the second side of the puffer.  Adding pairs of
+gliders into the loop can reduce the period.  The reaction shown here
+is the basis of the first clean c/5 rakes.
+David I. Bell, September 1997

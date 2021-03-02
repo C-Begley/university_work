@@ -1,0 +1,37 @@
+{
+    "sea_flood": "Not an issue",
+    "soil_erosion": {
+        "failure": "Gradual",
+        "failure_effect": "Soil is eroded on and away from tracks, making the electronics supports  uneven",
+        "severity": 4,
+        "occurrence": 5,
+        "detection_method": "Manual inspections",
+        "detection_index": 5,
+        "mitigation": "Reinforce surrounding areas",
+        "RPN": 100,
+        "liklihood": "probable"
+    },
+    "river_flooding": "Not an issue",
+    "land_flooding": {
+        "failure": "Intermittent",
+        "failure_effect": "Intense rain water logs land and cover track in water, possibly shorting electronics",
+        "severity": 6,
+        "occurrence": 6,
+        "detection_method": "Rainfall meters",
+        "detection_index": 5,
+        "mitigation": "Raise height of electronics",
+        "RPN": 180,
+        "liklihood": "probable"
+    },
+    "landslide": {
+        "failure": "Gradual",
+        "failure_effect": "small landslides damage(falling rocks) electronics",
+        "severity": 4,
+        "occurrence": 5,
+        "detection_method": "Inspections of tracks",
+        "detection_index": 7,
+        "mitigation": "Invest in landslide nets",
+        "RPN": 140,
+        "liklihood": "probable"
+    }
+}

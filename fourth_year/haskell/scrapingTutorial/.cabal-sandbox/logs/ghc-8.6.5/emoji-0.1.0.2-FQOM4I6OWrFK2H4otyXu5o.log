@@ -1,0 +1,21 @@
+cabal: Entering directory '/tmp/cabal-tmp-6026/emoji-0.1.0.2'
+Configuring emoji-0.1.0.2...
+Preprocessing library for emoji-0.1.0.2..
+Building library for emoji-0.1.0.2..
+[1 of 2] Compiling Data.Emoji.Internal ( src/Data/Emoji/Internal.hs, dist/dist-sandbox-43a7003/build/Data/Emoji/Internal.o )
+[2 of 2] Compiling Data.Emoji       ( src/Data/Emoji.hs, dist/dist-sandbox-43a7003/build/Data/Emoji.o )
+
+src/Data/Emoji.hs:9:24: warning:
+    Pattern match checker exceeded (2000000) iterations in
+    a case alternative. (Use -fmax-pmcheck-iterations=n
+    to set the maximun number of iterations to n)
+  |
+9 | unicodeByName name = $(sample) name
+  |                        ^^^^^^
+Preprocessing executable 'emoji-example' for emoji-0.1.0.2..
+Building executable 'emoji-example' for emoji-0.1.0.2..
+[1 of 1] Compiling Main             ( examples/Main.hs, dist/dist-sandbox-43a7003/build/emoji-example/emoji-example-tmp/Main.o )
+Linking dist/dist-sandbox-43a7003/build/emoji-example/emoji-example ...
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/emoji-0.1.0.2-FQOM4I6OWrFK2H4otyXu5o
+Installing executable emoji-example in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/bin
+cabal: Leaving directory '/tmp/cabal-tmp-6026/emoji-0.1.0.2'

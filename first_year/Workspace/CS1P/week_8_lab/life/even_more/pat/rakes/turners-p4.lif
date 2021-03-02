@@ -1,0 +1,19 @@
+x = 314, y = 203, rule = B3/S23
+13boo$11bo4bo$10bo$10bo5bo201bo92bo$10b6o203bo89bo3bo$58bobo156b3o88bo
+$58boo248bo4bo$59bo156bo91b5o$214bo3bo74bo$60boo151bo80bo$8bo49bo4bo
+149bo4bo73b3o$6boo49bo155b5o$7boo48bo5bo23b5o202bo$57b6o3b6o15bo4bo
+199bo3bo$5boo59bo5bo14bo203bo$3bo4bo57bo21bo3bo198bo4bo$bbo64bo4bo17bo
+200b5o$bbo5bo60boo$bb6o3$238b4o$238bo3bo$238bo$239bobbo59boo$301booboo
+$302b4o$303boo5$9boo60boo$8boob4o55boob4o$9b6o56b6o$10b4o58b4o$$4bo58b
+o$3bo58bo$3b3o56b3o$$3bo58bo$bo3bo54bo3bo$o58bo$o4bo53bo4bo238boo$5o
+54b5o163b6o69boob4o$227bo5bo69b6o$227bo76b4o$13b6o52b6o151bo4bo$13bo5b
+o51bo5bo152boo$13bo57bo$14bo4bo52bo4bo151bo67bobo$16boo56boo154bo67boo
+$228b3o67bo$293bobbo$292bo$233boo57bo3bo$231bo4bo55b4o$230bo$230bo5bo
+66boo$230b6o65bo4bo$300bo$300bo5bo$300b6o21$16boo$14bo4bo52boo$13bo56b
+o4bo$13bo5bo49bo$13b6o50bo5bo$69b6o$$232b6o$232bo5bo$4bo227bo$3bo57bo
+171bo4bo60bobo$3b3o54bo174boo63boo$60b3o237bo$3bo291bobbo$bo3bo54bo
+167bobo63bo$o57bo3bo166boo63bo3bo$o4bo51bo171bo64b4o$5o5b4o43bo4bo161b
+obbo$9b6o42b5o8b4o149bo$8boob4o54b6o148bo3bo77boo$9boo57boob4o148b4o
+77boob3o$69boo234b5o$234boo70b3o$232bo4bo$231bo$231bo5bo$231b6o62$59b
+5o$59bo4bo$59bo$7bo52bo3bo$6bo55bo$6b3o8$30bo$28bo3bo$27bo$27bo4bo$27b
+5o10$20boo$19boob4o$20b6o$21b4o!

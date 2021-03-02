@@ -1,0 +1,26 @@
+#C P1168 gun based on two copies of small p8 glider-to-Herschel converter
+#C Available periods with this configuration are p952 + 8N
+#C Dave Greene  September 30 2002
+x = 139, y = 91, rule = B3/S23
+113bo$108bo$107bobo$106bo3bo$96bo8bo3bo$96b3o5bo3bo$99bo3bo3bo$98boo4b
+obo$105bo$101bo$71bo28bobo$71b3o10bo11boobboo$27b3o44bo7b3o11boo11bo$
+30bo42boo6bo27b3o$26bo3bo50boo29bo$16bo8bobobbo80boo$16b3o4bobbobo92b
+oo$19bo3bo3bo93bo$18boo3bo95bobo$24b3o86boo4boo$21bo90bobbo$20bobo90b
+oo$3bo12boobboo79boo$16boo83boo32bo$bob3o129boo$3boobo53b3o71boobo$3bo
+boo56bo69bobb3o$4b3obo50bo3bo5boo61bobobo$49bo8bobobbo5boo60bobobo$6bo
+42b3o4bobbobo67b3obbo$10bo41bo3bo3bo69boboo$o8bobo39boo3bo53boo3boo14b
+oo$10boo45b3o30boo19bo3bo8b5o3bo$6boo46bo35bobo9boo4b3o5b3o5bo4bo$5bob
+o45bobo36bo15bo9bo4bo4bo$5bo5boo36boobboo37boo6bo3bo20b3o3boo$4boo5boo
+36boo49bo4bo25bobo$102bobobo19boo5bo$103bobobo18boo5boo$104bo4bo$105bo
+3bo$$84boo5boo13boobbo$84boo5bo17bobo$89bobo18boo$89boo15boo$85boo18bo
+bo$85bobo17bo5boo$50boo5boo27bo17boo5boo$50boo5bo$55bobo31b3o$55boo32b
+3o$51boo36b3o$51bobo38b3o$52bo3bo35b3o$55boo35b3o8boo$54boboo20bo9bo
+15bo$53b3obbo19b3o5b3o15bobo$55bobobo21bo3bo19boo$56bobobo19boo3boo$
+57bobb3o$58boobo$9bo49boo65boo$8b3o48bo66boo$7b3obo$8bo3bo$9bo3bo$10bo
+b3o79boo$11b3o80boo$12bo69boo$16bo64bobbo$15bobo58boo4boo$16boo57bobo$
+12boo61bo$11bobo60boo$11bo5boo40boo23boo$10boo5boo36boobboo23bo29boo$
+54bobo28b3o27bo$28boo21boobbo31bo11boo11b3o$24boobboo65boobboo11bo$23b
+obo24bo3bobboo35bobo$20boobbo24bo4bobbo37bo$48bobobo5b3o30bo$19bo3bobb
+oo19bobobo8bo36boo$18bo4bobbo18bo4bo38b3obo3bo$17bobobo5b3o15bo3bo38bo
+boo6b3o$16bobobo8bo58boobo8bo$14bo4bo27boo37bob3o$14bo3bo116bo$88bo47b
+o$16boo116b3o!

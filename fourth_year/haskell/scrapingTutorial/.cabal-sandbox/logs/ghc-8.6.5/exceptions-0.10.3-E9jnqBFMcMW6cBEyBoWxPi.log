@@ -1,0 +1,8 @@
+cabal: Entering directory '/tmp/cabal-tmp-5190/exceptions-0.10.3'
+Configuring exceptions-0.10.3...
+Preprocessing library for exceptions-0.10.3..
+Building library for exceptions-0.10.3..
+[1 of 2] Compiling Control.Monad.Catch ( src/Control/Monad/Catch.hs, dist/dist-sandbox-43a7003/build/Control/Monad/Catch.o )
+[2 of 2] Compiling Control.Monad.Catch.Pure ( src/Control/Monad/Catch/Pure.hs, dist/dist-sandbox-43a7003/build/Control/Monad/Catch/Pure.o )
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/exceptions-0.10.3-E9jnqBFMcMW6cBEyBoWxPi
+cabal: Leaving directory '/tmp/cabal-tmp-5190/exceptions-0.10.3'

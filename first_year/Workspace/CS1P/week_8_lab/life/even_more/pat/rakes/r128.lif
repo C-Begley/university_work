@@ -1,0 +1,12 @@
+#CRake by Jason Summers, 1999
+#CThe p128 puffer is much older.
+#C(In fact, it was the first puffer discovered
+#Cin Life.)
+x = 84, y = 43, rule = B3/S23
+10boo$9boob4o$10b6o$11b4o$3boo$bo5boo$o6b3o$o8boo$8o3bo9bo$5b6o11boo$
+9bo11boo$$boo30bo$ooboo6boo21boo28b5o$b4o4bo4bo18boo29bo4bo$bboo4bo55b
+o$8bo5bo30bo19bo3bo$8b6o32boo19bo$45boo$$57bo$14boo42boo$10bo3bobo40b
+oo$9boobbooboo33bo$8boobobbobo34bo$9bobo3bo35bo$10boo$$10boo53boo14bo$
+9bobo3bo35bo13boo15boo$8boobobbobo34bo29boo$9boobbooboo33bo$10bo3bobo$
+14boo$$77b6o$77bo5bo$8b6o63bo$8bo5bo63bo4bo$8bo22b4o45boo$9bo4bo16bo3b
+o$11boo18bo$32bobbo!

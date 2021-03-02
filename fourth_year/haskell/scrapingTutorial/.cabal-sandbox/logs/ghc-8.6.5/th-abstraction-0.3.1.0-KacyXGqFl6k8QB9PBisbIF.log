@@ -1,0 +1,8 @@
+cabal: Entering directory '/tmp/cabal-tmp-6029/th-abstraction-0.3.1.0'
+Configuring th-abstraction-0.3.1.0...
+Preprocessing library for th-abstraction-0.3.1.0..
+Building library for th-abstraction-0.3.1.0..
+[1 of 2] Compiling Language.Haskell.TH.Datatype.Internal ( src/Language/Haskell/TH/Datatype/Internal.hs, dist/dist-sandbox-43a7003/build/Language/Haskell/TH/Datatype/Internal.o )
+[2 of 2] Compiling Language.Haskell.TH.Datatype ( src/Language/Haskell/TH/Datatype.hs, dist/dist-sandbox-43a7003/build/Language/Haskell/TH/Datatype.o )
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/th-abstraction-0.3.1.0-KacyXGqFl6k8QB9PBisbIF
+cabal: Leaving directory '/tmp/cabal-tmp-6029/th-abstraction-0.3.1.0'

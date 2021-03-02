@@ -1,0 +1,16 @@
+#C 1-row, 7-engine glide-reflecting Cordership
+#C Dean Hickerson, dean@math.ucdavis.edu (7/23/98)
+x = 114, y = 113
+95bo$78b3o8bo5bo$77bo3bo6bo7bo$78b2o9b4o2b2o$80b2ob2o9b3o$82b2o11bobo$
+96bo7b2o$96bo7b2o3$88bo$87bobo$87bobo$74b3o11bo$75bo36b2o$75bo2bo33b2o
+$75bo2bo$76bobo$96bo$95bobo$95bobo$96bo2$75b2o$53bobo18b2o$52bo19b3o$
+53bo2bo$55bobo14b2o$58bo$57b3o$57bo$39bo15b2o$39bo5b3o9bo13b3o$38bobo
+3b2o2bo6bo2bo12b3o$39bo3bo5bo5bobo13b2o$39bo3bo11bo14bo21b3o$44bo2b2o
+19b2o2bo21bo$45b2o22bo3bo19bo$69bo2bo$70b3o5$55b2o$55b2o$42b2o$42b2o$
+41b2obo$28bobo13bo$27bo16b2ob3o$28bo2bo12bob2obo$30bobo9b2o3b2o14b2o$
+33bo8b2o19b2o$32b3o4bob3o9b2o$32bo6bo13b2o$30b2o$32bo$30bo2bo$30bobo$
+30bo2$54bobo$54bo2bo2$22b3o30bobo$23bo31b3o$23bo2bo29bobo$23bo2bo30b2o
+bo$24bobo31b3o2$48bo$48bobo$48b2o2$23b2o3$b3o8b2o$o3bo6bo2bo$b2o9b2o$
+3b2ob2o$5b2o4$20b2o$19bo2bo$20b2o6$26b2o$7b2o15bo3bob2o$7b2o15bo3bob2o
+$24bo3b2o$25b3o$25b3o4$15b2o15bo$15b2o15bobo$32b2o6$23b2o$23b2o!
+

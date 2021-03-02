@@ -1,0 +1,19 @@
+<Conor Begley>
+GUID:2236693B
+Date:30/11/2019
+
+To say Haskell is different from other languages I’ve studied would be an understatement. I hadn’t looked at functional programming before this course and certainly didn’t know what to expect
+
+Haskell code is very concise, which is both a blessing and a curse. When writing your own code, it helps keep things tidy and perform multiple steps in just a few words. What would be multi line loops in an Object Oriented languages are single lines in Haskell. However, when looking at other people’s code or checking online, it can be very hard to understand what exactly is going on. Especially as many people opt to remove the syntactic sugar from their operations.
+
+Following from that, Haskell doesn’t have a lot of online support. Most library documentation just included the types definition.  Stack overflow posts are few and far between. This can make learning Haskell quiet frustrating, having to wade through sparse documentation and discover how some functions work purely by trial and error.
+
+Moving onto specifics, one thing that makes perfect sense in Haskell are lambas. I’ve used them in Python for sort functions. Beyond that, lambas never made a lot of sense to me. Within weeks of studying Haskell, it was clear lambdas are fundamental to the language. Given the frequency of maps and filters,it would be ridiculous to have to constantly define functions for use in these. It also makes experimenting with ideas in GHCI a lot easier.
+
+Monads brought the biggest learning curve for me. The main one being the Maybe monad. Haskell doesn’t provide a null value like Java or C. Instead to it uses Nothing as a value in the Maybe monad. anything that that accepts a maybe, will return nothing if it receives nothing and not throw an error like with null. Admittedly, it can be annoying to always handle a Just value, by using fromMaybe or an fmap. However, the guaranteed no error nothing gives provides outweighs this annoyance. Ideally, nothing would be a value of any type but still maintain the behaviour of the Maybe monad. However, I appreciate this would go against the strong typing and no side effect nature of Haskell. 
+
+The IO monad on the other hand provided very little hassle, thanks to the very straight forward “←” symbol used to strip the internal result 
+
+Finally, I quiet enjoyed using stack for project. By having stack as both a virtual environment, a package manager and an application constructor, it is much more straightforward then Python. It made tracking things easier than having to use pip commands as well as remembering to activate the relevant environments. Defining the executables makes it simpler again, with “stack run” being a universal project command, instead of having to provide the name of the python file(s) to run every time.
+
+Despite the lack of online resources and abstract concepts, I must admit I have come to like Haskell. The exact nature and concise style, makes it enjoyable to design and due to it’s strict nature, testing and debugging is very straightforward.

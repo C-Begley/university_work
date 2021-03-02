@@ -1,0 +1,8 @@
+cabal: Entering directory '/tmp/cabal-tmp-6027/base-orphans-0.8.1'
+Configuring base-orphans-0.8.1...
+Preprocessing library for base-orphans-0.8.1..
+Building library for base-orphans-0.8.1..
+[1 of 2] Compiling Data.Orphans     ( src/Data/Orphans.hs, dist/dist-sandbox-43a7003/build/Data/Orphans.o )
+[2 of 2] Compiling Data.Orphans.Prelude ( src/Data/Orphans/Prelude.hs, dist/dist-sandbox-43a7003/build/Data/Orphans/Prelude.o )
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/base-orphans-0.8.1-HeyTAcy4PKhDcGhjvJwDzq
+cabal: Leaving directory '/tmp/cabal-tmp-6027/base-orphans-0.8.1'

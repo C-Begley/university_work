@@ -1,0 +1,5 @@
+#C Blom
+#C Found by Dean Hickerson, 7/7/2002
+#C Runs for 23314 gens.  Initial pop = 13.  Final pop = 2740.
+x = 12, y = 5
+o10bo$b4o6bo$2b2o7bo$10bo$8bobo!

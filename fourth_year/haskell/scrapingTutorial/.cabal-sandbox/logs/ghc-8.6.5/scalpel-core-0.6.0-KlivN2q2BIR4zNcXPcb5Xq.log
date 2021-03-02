@@ -1,0 +1,13 @@
+cabal: Entering directory '/tmp/cabal-tmp-5190/scalpel-core-0.6.0'
+Configuring scalpel-core-0.6.0...
+Preprocessing library for scalpel-core-0.6.0..
+Building library for scalpel-core-0.6.0..
+[1 of 7] Compiling Text.HTML.Scalpel.Internal.Select.Types ( src/Text/HTML/Scalpel/Internal/Select/Types.hs, dist/dist-sandbox-43a7003/build/Text/HTML/Scalpel/Internal/Select/Types.o )
+[2 of 7] Compiling Text.HTML.Scalpel.Internal.Select.Combinators ( src/Text/HTML/Scalpel/Internal/Select/Combinators.hs, dist/dist-sandbox-43a7003/build/Text/HTML/Scalpel/Internal/Select/Combinators.o )
+[3 of 7] Compiling Text.HTML.Scalpel.Internal.Select ( src/Text/HTML/Scalpel/Internal/Select.hs, dist/dist-sandbox-43a7003/build/Text/HTML/Scalpel/Internal/Select.o )
+[4 of 7] Compiling Text.HTML.Scalpel.Internal.Scrape ( src/Text/HTML/Scalpel/Internal/Scrape.hs, dist/dist-sandbox-43a7003/build/Text/HTML/Scalpel/Internal/Scrape.o )
+[5 of 7] Compiling Text.HTML.Scalpel.Internal.Scrape.StringLike ( src/Text/HTML/Scalpel/Internal/Scrape/StringLike.hs, dist/dist-sandbox-43a7003/build/Text/HTML/Scalpel/Internal/Scrape/StringLike.o )
+[6 of 7] Compiling Text.HTML.Scalpel.Internal.Serial ( src/Text/HTML/Scalpel/Internal/Serial.hs, dist/dist-sandbox-43a7003/build/Text/HTML/Scalpel/Internal/Serial.o )
+[7 of 7] Compiling Text.HTML.Scalpel.Core ( src/Text/HTML/Scalpel/Core.hs, dist/dist-sandbox-43a7003/build/Text/HTML/Scalpel/Core.o )
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/scalpel-core-0.6.0-KlivN2q2BIR4zNcXPcb5Xq
+cabal: Leaving directory '/tmp/cabal-tmp-5190/scalpel-core-0.6.0'

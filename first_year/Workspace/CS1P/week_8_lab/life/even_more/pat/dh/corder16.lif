@@ -1,0 +1,16 @@
+#C 5-engine block puffer
+#C A speed c/12 diagonal puffer built from 5 Corderman switch engines,
+#C which produces a block every 96 gens.
+#C Dean Hickerson, dean@math.ucdavis.edu (9/5/98)
+x = 78, y = 72
+41bobo$27bobo7bo2bo2bo$26b2ob2o5bobob2obo$27bob2o6bo$31bo11b3o$30bo13b
+2o$30bo12b2o7b2o$52b2o3$36bo$35bobo$23bo11bobo$22bobo11bo$60b2o$22bo2b
+o34b2o$24b2o$25bo$44bo$43bobo$43bobo$44bo$22b2o44b2o$24bo43b2o$b3o18b
+2o36bo$bobo56bo$o3bo55bo$o3bo56b2o$o60b3o$o4b2o54b2o$o6bo12b2o$bo5bo
+11b3o$b2o16bobo$3bo3bo9bo2bo$4bobo10b3o40bo$61bo$18b2o40bo$b3o43bo$o3b
+o13bo24b5o7b2o$bo2bo14bo23bo3bobo4b3o$3b2o13b2o23b3o3b3o3b3o3b2o$18bo
+30b2o2b3o5b2o$49bo$15bo2bo9b2o16b3o23bo$17b4o6bo2bo15b2o23bobo$14bo13b
+2o41bobo$15b2o2b2o51bo2$6b2o7b2o50b2o$6b2o6b2o50bo2bo$15b2o2bo47b2o$
+36b2o$35bo2bo$36b2o$50b3obo5b2o$46bobo2bobobo4b2o$14b2o31b2ob4ob2o$14b
+2o30bo3b2o3bo$46bobo3b3o$53bo$47bo$44b3o$68b2o$68b2o7$76b2o$76b2o!
+

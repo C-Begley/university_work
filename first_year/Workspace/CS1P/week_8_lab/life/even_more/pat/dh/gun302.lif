@@ -1,0 +1,12 @@
+#C p60 wobble gun
+#C This demonstrates a reaction in which a glider hits a p30 gun,
+#C shifting one of its output gliders sideways.
+#C Dean Hickerson, dean@math.ucdavis.edu (2/90)
+x = 64, y = 42
+42bo$41bobo$31b2o7bob2o$30bobo6b2ob2o10b2o$29bo6b3obob2o10b2o$20b2o7bo
+2bo2bo2bo2bobo$20b2o7bo6b2o4bo$30bobo$31b2o4$41bo$42b2o$41b2o3$51bo$
+52b2o$51b2o$30b3o$32bo$31bo5$23b2o31bo$22bobo12b2o18b2o$24bo11b2o18b2o
+$13bo24bo$12b4o$2o9b2obobo6bobo$2o8b3obo2bo3bo3bo26bo$11b2obobo4bo23b
+2obo3b4o$12b4o4bo4bo13b2o2b2obobo4b4o$13bo7bo16bobo2b2obob2o3bo2bo$21b
+o3bo11b3o8b2o3b4o$23bobo10b3o8b2o3b4o4b2o$37b3o12bo7bobo$38bobo21bo$
+39b2o21b2o!

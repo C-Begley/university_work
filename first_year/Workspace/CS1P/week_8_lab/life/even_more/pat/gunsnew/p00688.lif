@@ -1,0 +1,21 @@
+#C p688 gun   Scot Ellison May 31 2001
+#C optimized   Dave Greene September 26 2002
+x = 132, y = 75, rule = B3/S23
+62bo6boo$62b3o4bobbobo$65bo5boob3o$64boo11bo30bo$49boo20boob3o30b3o$
+49bobbobo16boobo31bob3o$51boob3o39bo8bo3bo$57bo38b3o5bo3bo$51boob3o3b
+oo3boo32bo3b3obo$51boobo5boo3boo31boo4b3o$84boo19bo$101bo$16boo64bo3bo
+13bobo$17bo38bo25bo4bo8boobboo$15bo39bobo26bobobo7boo$15boo39bo28bobob
+o$7bo78bo4bo15boo5boo$7b3o77bo3bo15boo5bo$10bo101bobo$9boo77boobbo19b
+oo$91bobo14boo$12bo5boo72boo14bobo$11b3o4boo53boo13boo19bo$10b3oboo57b
+oo12bobo$9bo3b3o71bo5boo17boo$8bo4bo72boo5boo17boobo$7boo107bo$7bobo
+103bo$4bobbobbo103boboo$3boo3bobo17boo55boo29boo$3bobo23bo55boo$26b3o
+34boo$26bo17boo18bo63bo$24bobo18bo15b3o63b3o$24boo16b3o16bo40bo23bob3o
+$42bo58bobo21bo3bo$oo98bo3bo19bo3bo$o98bo3bo19b3obo$bboboo18boo72bo3bo
+21b3o$booboo18bobo70bo3bo23bo$26bo43boo26bobo20bo$booboo20boo43bo27bo
+20bobo8bo$bbobo63b3o24bo24boo$bbobo63bo4boo19bobo27boo$3booboo65boo19b
+oo28bobo$5bobo90boo19boo5bo$5bo31boo59bobo18boo5boo$4boo31bo55boo5bo$
+35bobo55boo5boo$34bobo$30boo3bo20bo$30boo23bobo48boo$54bobbo15boo32boo
+$55boo15bobbo30bo$73boo$66boo$66boo$$84boo$84bobo$86bo$86boo$11boo81b
+oo$11boo81boobboo$17boo79bobo$17boo56boo22bobboo$75bobo$77bo18boobbo3b
+o$15boo60boo18bobbo4bo$15boo5boo40boo28b3o5bobobo$22boo40boo28bo8bobob
+o$104bo4bo$45bo59bo3bo$46bo15boo$44b3o15boo42boo!

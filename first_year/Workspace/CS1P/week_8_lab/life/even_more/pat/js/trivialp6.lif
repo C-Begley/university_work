@@ -1,0 +1,10 @@
+#CA period-6 oscillator with no period-6 cells, even though it has
+#Ca period-2 section that interacts with a period-3 section.
+#CThis was found to illustrate why can be hard to
+#Cdecide if an oscillator is "trivial" or not.
+#CBy Dean Hickerson, 10-Dec-1994
+x = 27, y = 18, rule = B3/S23
+11boo$11bo6boo$8boobo6bobbo$8boboboobooboboobbo$bbo7bobbobobbobbobobo$
+oobbo3bobboobbobobo3bobbo$4bo3bobboobbobobobboboo$bbo3b4oboobo3booboo$
+9bo8boboo$bobobobbooboboboboob3oboo$bobo8boo3bo4bobo$bo10b6o4bobo$8bob
+oo4bobbo3bo$8boo6bobbo$11b4ob3o$8b3o4bo$8bobbobbobboo$10boo3boobo!

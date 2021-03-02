@@ -1,0 +1,29 @@
+cabal: Entering directory '/tmp/cabal-tmp-5192/regex-tdfa-1.3.0'
+Configuring regex-tdfa-1.3.0...
+Preprocessing library for regex-tdfa-1.3.0..
+Building library for regex-tdfa-1.3.0..
+[ 1 of 23] Compiling Data.IntMap.CharMap2 ( lib/Data/IntMap/CharMap2.hs, dist/dist-sandbox-43a7003/build/Data/IntMap/CharMap2.o )
+[ 2 of 23] Compiling Data.IntSet.EnumSet2 ( lib/Data/IntSet/EnumSet2.hs, dist/dist-sandbox-43a7003/build/Data/IntSet/EnumSet2.o )
+[ 3 of 23] Compiling Data.IntMap.EnumMap2 ( lib/Data/IntMap/EnumMap2.hs, dist/dist-sandbox-43a7003/build/Data/IntMap/EnumMap2.o )
+[ 4 of 23] Compiling Paths_regex_tdfa ( dist/dist-sandbox-43a7003/build/autogen/Paths_regex_tdfa.hs, dist/dist-sandbox-43a7003/build/Paths_regex_tdfa.o )
+[ 5 of 23] Compiling Text.Regex.TDFA.IntArrTrieSet ( lib/Text/Regex/TDFA/IntArrTrieSet.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/IntArrTrieSet.o )
+[ 6 of 23] Compiling Text.Regex.TDFA.Common ( lib/Text/Regex/TDFA/Common.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/Common.o )
+[ 7 of 23] Compiling Text.Regex.TDFA.NewDFA.Uncons ( lib/Text/Regex/TDFA/NewDFA/Uncons.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/NewDFA/Uncons.o )
+[ 8 of 23] Compiling Text.Regex.TDFA.NewDFA.MakeTest ( lib/Text/Regex/TDFA/NewDFA/MakeTest.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/NewDFA/MakeTest.o )
+[ 9 of 23] Compiling Text.Regex.TDFA.NewDFA.Tester ( lib/Text/Regex/TDFA/NewDFA/Tester.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/NewDFA/Tester.o )
+[10 of 23] Compiling Text.Regex.TDFA.NewDFA.Engine_NC_FA ( lib/Text/Regex/TDFA/NewDFA/Engine_NC_FA.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/NewDFA/Engine_NC_FA.o )
+[11 of 23] Compiling Text.Regex.TDFA.NewDFA.Engine_NC ( lib/Text/Regex/TDFA/NewDFA/Engine_NC.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/NewDFA/Engine_NC.o )
+[12 of 23] Compiling Text.Regex.TDFA.NewDFA.Engine_FA ( lib/Text/Regex/TDFA/NewDFA/Engine_FA.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/NewDFA/Engine_FA.o )
+[13 of 23] Compiling Text.Regex.TDFA.NewDFA.Engine ( lib/Text/Regex/TDFA/NewDFA/Engine.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/NewDFA/Engine.o )
+[14 of 23] Compiling Text.Regex.TDFA.Pattern ( lib/Text/Regex/TDFA/Pattern.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/Pattern.o )
+[15 of 23] Compiling Text.Regex.TDFA.CorePattern ( lib/Text/Regex/TDFA/CorePattern.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/CorePattern.o )
+[16 of 23] Compiling Text.Regex.TDFA.ReadRegex ( lib/Text/Regex/TDFA/ReadRegex.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/ReadRegex.o )
+[17 of 23] Compiling Text.Regex.TDFA.TNFA ( lib/Text/Regex/TDFA/TNFA.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/TNFA.o )
+[18 of 23] Compiling Text.Regex.TDFA.TDFA ( lib/Text/Regex/TDFA/TDFA.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/TDFA.o )
+[19 of 23] Compiling Text.Regex.TDFA.String ( lib/Text/Regex/TDFA/String.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/String.o )
+[20 of 23] Compiling Text.Regex.TDFA.Sequence ( lib/Text/Regex/TDFA/Sequence.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/Sequence.o )
+[21 of 23] Compiling Text.Regex.TDFA.ByteString.Lazy ( lib/Text/Regex/TDFA/ByteString/Lazy.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/ByteString/Lazy.o )
+[22 of 23] Compiling Text.Regex.TDFA.ByteString ( lib/Text/Regex/TDFA/ByteString.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA/ByteString.o )
+[23 of 23] Compiling Text.Regex.TDFA  ( lib/Text/Regex/TDFA.hs, dist/dist-sandbox-43a7003/build/Text/Regex/TDFA.o )
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/regex-tdfa-1.3.0-5Si3ZWk4QRdIv0oT3gvluK
+cabal: Leaving directory '/tmp/cabal-tmp-5192/regex-tdfa-1.3.0'

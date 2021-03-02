@@ -1,0 +1,10 @@
+#C p540 (1-on, 6-off, 4-on, 7-off) gun
+#C 10- collision + 2 eaters
+#C Dean Hickerson, dean@math.ucdavis.edu (2/90)
+x = 71, y = 28
+45bo$43bobo$41b2o18b2o$35b2o4b2o17bo3bo$35b2o4b2o16bo5bo$43bobo4bo8bo
+3bob2o2b2o$23b2o20bo3bo9bo5bo3b2o$23b3o23b3o2bo5bo3bo$9bo15b2obo32b2o$
+7bobo4b3o8bo2bo5b2o$6bobo16b2obo5b2o$2o3bo2bo7bo2b2o2b3o$2o4bobo7bo3bo
+2b2o$7bobo6bo2bo22bo$9bo8b2o22bobo9b2o$42b2o10bo$52bobo$52b2o$27bo$25b
+obo$26b2o7bo$34bo$34b3o2$52b2o$34bo17bobo$35bo18bo$33b3o18b2o!
+

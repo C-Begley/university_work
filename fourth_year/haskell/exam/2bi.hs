@@ -1,0 +1,1 @@
+lookup :: Eq k => [(k,v)] -> k -> Maybe v

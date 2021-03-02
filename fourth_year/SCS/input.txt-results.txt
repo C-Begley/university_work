@@ -1,0 +1,49 @@
+{
+    "sea_flood": "improbable",
+    "soil_erosion": {
+        "failure": "Gradual",
+        "failure_effect": "Soil is eroded on and away from tracks, making the tracks uneven",
+        "severity": 5,
+        "occurence": 5,
+        "dectection_method": "Rainfall meters and vibration sensors",
+        "dectection_index": 5,
+        "mitigation": "Renforce surrounding areas"
+    },
+    "track_erosion": {
+        "failure": "Gradual",
+        "failure_effect": "Ballast is washed away making tracks too unstable to run trains on",
+        "severity": 7,
+        "occurence": 7,
+        "dectection_method": "Rainfall meters and vibration sensors",
+        "dectection_index": 5,
+        "mitigation": "Regualrly check ballast and consider adding cages"
+    },
+    "river_flooding": "improbable",
+    "land_flooding": {
+        "failure": "Intermittent",
+        "failure_effect": "Intense rain waterlogs land and cover track in water, slowing trains",
+        "severity": 5,
+        "occurence": 5,
+        "dectection_method": "Rainfall meters",
+        "dectection_index": 6,
+        "mitigation": "Invest in more draingage for area"
+    },
+    "temp": {
+        "failure": "Intermittent",
+        "failure_effect": "Tracks get too hot for trains to run without damagin tracks",
+        "severity": 6,
+        "occurence": 4,
+        "dectection_method": "Temperature sensors",
+        "dectection_index": "2",
+        "mitigation": "Readjust time schedule to avoid warmest time of day"
+    },
+    "landslide": {
+        "failure": "Gradual",
+        "failure_effect": "small landslides damage(falling rocks) tracks",
+        "severity": 4,
+        "occurence": 6,
+        "dectection_method": "Inspections of tracks",
+        "dectection_index": 7,
+        "mitigation": "Invest in landslide nets"
+    }
+}

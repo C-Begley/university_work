@@ -1,0 +1,49 @@
+{
+    "sea_flood": "Not an issue",
+    "soil_erosion": {
+        "failure": "Gradual",
+        "failure_effect": "Soil is eroded on and away , making the power lines supports uneven and risk touching surroundings",
+        "severity": 5,
+        "occurrence": 5,
+        "detection_method": "Manual inspections",
+        "detection_index": 4,
+        "mitigation": "Reinforce surrounding areas",
+        "RPN": 100,
+        "liklihood": "probable"
+    },
+    "river_flooding": "Not an issue",
+    "land_flooding": {
+        "failure": "Intermittent",
+        "failure_effect": "Intense rain water logs land and cover track in water, ",
+        "severity": 6,
+        "occurrence": 6,
+        "detection_method": "Rainfall meters",
+        "detection_index": 5,
+        "mitigation": "Raise height of power lines",
+        "RPN": 180,
+        "liklihood": "probable"
+    },
+    "landslide": {
+        "failure": "Gradual",
+        "failure_effect": "small landslides damage(falling rocks) power lines",
+        "severity": 6,
+        "occurrence": 5,
+        "detection_method": "Inspections of tracks",
+        "detection_index": 4,
+        "mitigation": "Invest in landslide nets",
+        "RPN": 120,
+        "liklihood": "probable"
+    },
+    "wind": "Not an issue",
+    "temp": {
+        "failure": "Gradual",
+        "failure_effect": "Increase in temperature could cause power lines to sage",
+        "severity": 4,
+        "occurrence": 6,
+        "detection_method": "Temperature sensors",
+        "detection_index": 2,
+        "mitigation": "Reduce transmissions values. Readjust time schedule to avoid warmest time of day",
+        "RPN": 48,
+        "liklihood": "probable"
+    }
+}

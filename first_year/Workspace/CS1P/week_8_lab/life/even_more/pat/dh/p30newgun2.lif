@@ -1,0 +1,10 @@
+#C p90 gun
+#C 1- collision + block + eater
+#C Dean Hickerson, dean@math.ucdavis.edu (2/90)
+x = 47, y = 34
+33b2o$35bo$22b2o12bo$22b2o4bo7bo8b2o$19b2o5b2o8bo8b2o$11b2o5b3o5bo2b2o
+4bo$11b2o6b2o6b5ob2o$22b2o4bo$22b2o2$36bo$37bo$35b3o5$28bo$28b2o$27bob
+o2$38b2o$38bobo$40bo$30b2o8b2o$9b2o9b2o8b2o$9bobo9b2o$3ob2o4b3o7bo6bo$
+4o2bo4b3o12bobo$4b2o4b3o12bo3b2o3b2o$9bobo13bo3b2o3b2o$9b2o14bo3b2o$
+26bobo$27bo!
+

@@ -1,0 +1,8 @@
+cabal: Entering directory '/tmp/cabal-tmp-5193/pointedlist-0.6.1'
+Configuring pointedlist-0.6.1...
+Preprocessing library for pointedlist-0.6.1..
+Building library for pointedlist-0.6.1..
+[1 of 2] Compiling Data.List.PointedList ( Data/List/PointedList.hs, dist/dist-sandbox-43a7003/build/Data/List/PointedList.o )
+[2 of 2] Compiling Data.List.PointedList.Circular ( Data/List/PointedList/Circular.hs, dist/dist-sandbox-43a7003/build/Data/List/PointedList/Circular.o )
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/pointedlist-0.6.1-HAlXcgHNiAXGpkrLQZqnLS
+cabal: Leaving directory '/tmp/cabal-tmp-5193/pointedlist-0.6.1'

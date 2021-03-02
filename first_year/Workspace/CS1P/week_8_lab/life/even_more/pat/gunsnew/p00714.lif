@@ -1,0 +1,24 @@
+#C p00714 - Scot Ellison - April 2003
+#C minor improvements by Karel Suhajda
+x = 114, y = 106, rule = B3/S23
+56bo$56b3o10boo$59bo8bobbo$58boo8bobobo$67boobobo$43boo16bo5bo3boboo$
+42bobo15bobo4b3obobbo$42bo13boobboo5bobboboboboo$40boob4o9boo9boo5bobb
+o$39bobo4bo21bobo4boo$39boboboobboo19bob5o$38boobo3boobbo19bo4bo$36bo
+bboboboobboobo19b4o$36boobbo4bo4bo21bo$41b3obob3o5boo17bo$43booboo6bob
+o16boo$56bo4$45bo$44bobo$45boo$41boo$40bobo$40bo5boo$39boo5boo8$48boo$
+49bo$32boo15bobo$33bo16boo$31bo$29b4o$15bo12bo4bo$15b3o9bob5obboo$18bo
+8bobobobb3obo$6boo9boo7boobboboo4bo$6bobo16bo3boobbob3o7boo$8bo11bo4b
+oobobobbobo9boo$4b4oboo8bobo3bo4boboo$4bobbobobo3boobboo5boobobobbo$bb
+oobboobobo3boo10boboboboo70boo5boo$bobboobbooboo14bobobobbobo68boo5bo$
+oboobboobo3bo14booboobboo73bobo$o3boo4b3o97boo$b3oboboobo95boo$3bo3bob
+o14bo81bobo$22bobo82bo$5bo17boo$5bo$64boo40b3o$6bo57boo$5bobo97bobobo$
+6boo95b3obob3o$bboo55boo41bo5bo3bo$bobo55bo41boboboobboobo$bo5boo51b3o
+38boboobboobbo$oo5boo53bo37boo4bobboo$98bobbobobobbo$98boobboob4o$104b
+o$104bobo$105boo3$49boo$49boo6$60boo$22boo15boo19bo$21bobbo15bo17bobo$
+20bobobo15bobo15boo$20boboboo9boo4boo4bo6boo$18boobo4bo4boobboo9bobo4b
+obbo$18bobboboboo3bobo13bobo5boo$15boobobboo3bo4bo15bo10boo$15bobboobo
+bboo32bobo$16boobbobobo8boo25bo$18b5obo8bo26boo$18bo4bo10b3o8boo$19b4o
+13bo9bo66bo$21bo21b3o5bo59bobo$23bo19bo6bobo59boo$22boo24b3obo$47bo4b
+oo$47b5obbo$45boo4bobo10boo$44bobbo5boo5boobboo$44boobobobobbo4bobo$
+47bobbob3o5bo$47boobo3bo$49boboboo7boo$49bobobo8bo$50bobbo9b3o$51boo
+12bo!

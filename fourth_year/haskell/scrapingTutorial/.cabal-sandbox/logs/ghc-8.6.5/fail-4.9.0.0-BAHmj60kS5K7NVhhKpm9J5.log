@@ -1,0 +1,6 @@
+cabal: Entering directory '/tmp/cabal-tmp-5190/fail-4.9.0.0'
+Configuring fail-4.9.0.0...
+Preprocessing library for fail-4.9.0.0..
+Building library for fail-4.9.0.0..
+Installing library in /home/conorbegley/code/haskell/scrapingTutorial/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/fail-4.9.0.0-BAHmj60kS5K7NVhhKpm9J5
+cabal: Leaving directory '/tmp/cabal-tmp-5190/fail-4.9.0.0'

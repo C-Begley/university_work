@@ -1,0 +1,8 @@
+x = 94, y = 55
+81bobo$81bobbo$77bo6boo6boo$75b4o3bo3boo4boo$17bo36bo14bo4bo9boo$18bo
+36bo14bobbo3bo3bobbo$16b3o34b3o12b3o3bobo4bobo$11boo31bobo$9bobbo29bo
+3bo$8bo7boo24bo9bo$oo6bo6bobbobbo13boo4bo4bo5boo$oo6bo7booboobo12boo5b
+o9b3o16boo3boo$9bobbo6bo3bo18bo3bo7bo17b5o$11boo6b5o20bobo7boo16booboo
+$18boo3boo28b3o16booboo$19b5o49b3o$20b3o$21bo$51boo3boo$52b5o$52booboo
+$52booboo17boo$53b3o18boo4$21boo$21boo$54boo$54boo22$16bobbo4bobbo$11b
+obb3obb6obb3o$12bo3bobbo4bobbo$10b3o!

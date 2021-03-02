@@ -1,0 +1,13 @@
+#C 6-engine, period 96, speed c/12 diagonal, backward glider puffer
+#C Dean Hickerson, dean@math.ucdavis.edu (7/24/98)
+x = 94, y = 70
+31bobo$30bo2bo$31bobo$47b2o$47bobo$33bo13b3o$32bob2o11bo2bo$32bob2o12b
+o$31bo3bo12bo7b2o$32b4o20b2o$32b3o15bo$47bo$50bo2$21bo6b2o14b2o$20bobo
+3bo3bo12bobo$19bo3bobo3b2o12bobo18b2o$20bobo2bobob2o12bo20b2o$21bo3bo
+2b2o$25bo4bo$26bo2bo10b2o$28bo11b2o$bobo$o$bo2bo28bo38b2o$3bobo26bobo
+37b2o$6bo11b3o11bobo$5b3o25bo$5bo$3b2o16bo$5bo14bobo$3bo2bo14bo$3bobo
+59bo$3bo58b4o4$65bobo$40bo25bo$39b3o14b2o6b2o$38bo10bo2bo4bo6bo2bo$39b
+2ob2o6b3o2bo2bo4b2ob2o$40b3ob2o5b2o2bo2bo$7b2o33b4o9bo2bo$7b2o47b3o4$
+49bo$48bobo$36bo11bobo$15b2o18b3o11bo$15b2o$35b3o$36b2ob2o$38bo$57bo$
+56bobo$56bobo$23b2o32bo$23b2o7$92bo$93bo$91b3o!
+

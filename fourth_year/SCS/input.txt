@@ -1,0 +1,12 @@
+{
+  "years": 50, 
+  "rain": 1.4, 
+  "soil_type": "clay", 
+  "slope": 10, 
+  "river_distance": 500, 
+  "max_river_height": 5, 
+  "river_height": 4, 
+  "sea_distance": 500, 
+  "max_temp": 35
+}
+

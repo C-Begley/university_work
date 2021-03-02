@@ -1,0 +1,71 @@
+
+;-----------------------------------------------------------------------
+
+; High level algorithm
+
+; 
+; sum = 0
+; for i := 0 to n-1
+;    sum = sum + x[i]
+
+;-----------------------------------------------------------------------
+
+; Intermediate level algorithm
+
+
+
+; loop:      
+
+;            if i >= n:
+
+;                goto done
+
+;            else
+                sum = sum + x[i]
+                goto loop
+
+
+; done:
+
+;           terminate        
+;-----------------------------------------------------------------------
+
+
+; Assembly language implementation
+
+; Register usage
+; R1 = constant 1
+; R2 = i
+; R3 = n
+; R4 = sum
+; R5 = x[i]
+
+                     lea       R1,1[R0]          ; R1 = constant 1
+                     lea       R2,0[R0]          ; R6 = i
+                     load      R3,n[R0]          ; R7 = n
+                     lea       R4,0[R0]          ; R6 = sum 
+; Top of loop, determine wheter to remain in loop
+
+; if not (i,n) goto done
+
+loop                     
+                     cmp       R2,R3             ; Compare i and n
+                     jumpge    done[R0]          ; I=if i >= n then goto done
+
+                     load      R5,x[R2]          ; x[i]
+                     add       R4, R4, R5        ; sum = sum + x[i]
+                     add       R2,R2,R1          ; i:= i+1
+                     jump loop                   ;
+
+done
+trap     R0,R0,R0            ; Terminate          
+
+;Variables and arrays
+data     6       ; size of array xx     
+
+data    13   ; x[0]
+data   189   ; x[1]
+data   870   ; x[2]
+data    42   ; x[3]
+data     0   ; x[4]
+data  1749   ; x[5]

@@ -1,0 +1,22 @@
+#C Smaller p327 gun based on Dieter Leithner's p981 Herschel factory
+#C Standard bounding-box reduction tricks by Dave Greene  03-03-03
+#C
+x = 112, y = 111, rule = B3/S23
+76bo20bo$74b3o11bo7bobo$73bo14b3o6bo$73boo16bo16bo$90boo14b3o$50bo54bo
+$36bo13b3o52boo$34b3o16bo$33bo18boo$33boo$83boo25boo$10bo72boo18bo6bo$
+10b3o89boo3boobo$13bo87b4o4bo$3boo7boo86boo3bo$4bo96bo$4bobo36boo50boo
+8bobo$5boo36boo41boo6bobo8boo$66boo19bo6bo$66bobo17bo6boo5bobo$68bo17b
+oo13bo$56boo10boo$56bo$5boo3bo35boo9b3o$bo5bo3boo12boo20bo11bo$obo4boo
+bbo13bo20bo50boo$bo5boo7boo8b3o17boo48bobo$9bo6bo11bo67bo$10bo6b3o75b
+oo$9bobo7bo$8booboo98bo$3boo3b5o96bobo$bbobo3b5o97boo$bbo4boobbo$boo5b
+3o$9bo7boobo67boo$17boboo68bo$89bobo15boo$10boo78boo15boo$10boo3$43boo
+$43boo3$oo39boo$bo39boo$bobo24boo$bboo25bo$29bobo3boo71boo$30boo46bo
+29bobo$26boo13boo35b3o29bo$26boo12bo40bo28boo$20boo17bo5bo34boo$20bo
+25bo$18bobo17bo3bo3boo$18boo17bobbobboo$38bo5bo$42bobo$40boobo$43bo26b
+oo$32boo7boo27boo$31bobbo$32boo$59bo$boo55bobo46boo$boo55boo24boo21boo
+$67boo16bo15boo$17boo48bo14b3o16boo$17boo49bo13bo$67boo$bbooboo25boo
+69boo$3boboo25boo62boo5boo$bo94boo$b5obo$6boo$3boo$3bo$4bo21bobo$3boo
+20boboo$23b3o$22bo4boo$22b5obo$26bo$22boo3bo$22bobo3bo$23bo3boo$42bo$
+3boo35b3o$3boo34bo$39boo3$8boo$8boo$4boo$4boo59b3obo$64bo3boboo$48boo
+14boo4bo$10boo36boo14bob4o$10boo13boo49bo$24bobo48bobo$24bo50bobo$23b
+oo10boo39bo$36bo$33b3o9boo$33bo11bo$46bo$45boo$70bo!

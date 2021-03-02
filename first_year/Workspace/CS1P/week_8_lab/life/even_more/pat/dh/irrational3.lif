@@ -1,0 +1,24 @@
+#C Unknown irrational
+#C Population growth appears to be linear.  If you can find the rate
+#C of growth, please let me know.   (It's probably irrational, and
+#C probably different for even and odd generations.)   Just proving
+#C that the pattern never blows up isn't quite trivial. 
+#C Dean Hickerson, dean@math.ucdavis.edu (6/16/91)
+x = 91, y = 63
+73bo$74bo6b2o$70bo3bo4b2ob2o$71b4o4b4o$80b2o3$79bo$57b2o20b2o$57bo15b
+2o3bob2o$46bobo6bobo15bo4bobo$44bo3bo6b2o21b2o$36bo7bo$35b4o4bo$23b2o
+9b2obobo4bo$8b2o13bo9b3obo2bo3bo3bo7b2o23b2o$8bo25b2obobo6bobo7bo22b2o
+b2o$35b4o24b2o14b4o$36bo24b2ob2o14b2o$61b4o$62b2o2$53b4o$8bo43bo3bo$7b
+3o46bo14b4o$6b5o44bo14bo3bo$5bobobobo38b2o22bo$5b2o3b2o38bo19bo2bo$24b
+o$22b4o42b2o$8bo7b2o5bob2o14b2o24b5o$7bobo6bo4bobob3o11bo2bo20b2o2bo4b
+o$6b2obo13bob2o11bo24bo3b3o2bo$6b3o13b4o12bo11b2o16bo2b2o$5bo2bo15bo5b
+o7bo11bo18b2o$5b3o21bo9bo2bo$4bo3bo20b3o9b2o$3bo5bo$4bo3bo5bo49b2o5b4o
+$5b3o7bo46b2ob2o3bo3bo5bo$13b3o21bo24b4o8bo6bo6b2o$38bo24b2o8bo3bo3bo
+4b2ob2o$32bo5bo39b4o4b4o$33b6o48b2o$74b2o$41b3o13b2o$40b5o4b4o5b2o13bo
+2bo7b3o$40b3ob2o2b6o3bo14b2ob2o5bo3b2o$43b2o3b4ob2o18bob5o2bobo2b2o$5b
+2o45b2o20bo2b3obo5bo$5bo56b2o14bo3bo2b2o$63b2o17bo$11bo22b2o26bo21bo$
+8b4o22bo8b2o3bo6bo$2o5b4o7bo4b2o7bobo10bobo8bo31b2o$o6bo2bo7b2o3bobo6b
+2o9b2o2bo8bo13b2o14b2ob2o$7b4o6bobo4b3o12bo8b9o12b4o13b4o$8b4o13b3o12b
+o28b2ob2o13b2o$11bo12b3o8bo4bo30b2o$23bobo10b5o8b4o$23b2o23b6o$48b4ob
+2o$52b2o!
+

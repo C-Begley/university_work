@@ -1,0 +1,33 @@
+! "main" (cells 81 length 30 width 39 generation 0)
+! Period 32 rake.
+15k19h@!
+.................................OOOOO
+.............OOOO................O....O
+.O..........OOOOOO...............O
+O..........OO.OOOO................O
+O.....O.....OO
+OOOOOO
+.
+.
+....OOO
+.....OO
+..O
+.OO
+OO
+.OO
+.
+.
+.
+.OO
+OO
+.OO
+..O
+.....OO
+....OOO
+.
+.
+OOOOOO
+O.....O.....O
+O..........O
+.O.........O.....O
+...........OOOOOO

@@ -1,0 +1,24 @@
+#Cby Nick Gotts
+#C8 is the minimum possible period for a c/2 glider rake.
+x = 105, y = 103, rule = B3/S23
+10b6o$10bo5bo$10bo$11bo4bo$13boo$$boo5boo3bo$oob4o5bobbo$b5o9bo$bb3o
+10bo10bo$10boobo13bo$12bo12b3o$b4o7boo$bo3bo32bo$bo37bo$bbobbo3boo12b
+3o11b3o$8boob4o7b5o$9b6o6boob3o23bo$10b4o8boo27bo$49b3o$15boo$13bo4bo
+7b3o33bo$12bo13boo35bo$12bo6bo41b3o$12b8o$17boo7boo6boo6boo6boo6boo6b
+oo$24bobbo6boo6boo6boo6boo6boo$24bobo$13boo$12booboo12boo34bo$13b4o10b
+o4bo32boo8bobo$14boo10bo37bobo7bo$26bo5bo41bo$26b6o21bo20bobbo$19boo
+32boo19b3o$18booboo29bobo$19b4o$20boo19bo$21bo5b3o11boo40bobo$19bo3bo
+3boobo9bobo39bo$18bo5bo5bo38b6o7bo12boo$18bo5bo3b3o38bo5bo6bobbo8b4o$
+18b6obo3bo39bo12b3o8booboo$27bo42bo4bo18boo$72boo$$28boo30boo5boo3bo
+18bobo$27boob4o25boob4o5bobbo15bo$28b6o26b5o9bo15bo$29b4o28b3o10bo10bo
+4bobbo$69boobo13bo3b3o$71bo12b3o$60b4o7boo17b3o$29b4o27bo3bo25bobbo3bo
+$28b6o26bo29bo7bo$27boob4o27bobbo3boo20bo5b3o4bo$28boo37boob4o17bobo
+10bo$68b6o28b3o$69b4o$27bo$18b6obo3bo52b3o$18bo5bo3b3o51bobbo$18bo5bo
+5bo51bo$19bo3bo3boobo9bobo39bo$21bo5b3o11boo40bobo$20boo19bo$19b4o$18b
+ooboo29bobo$19boo32boo19b3o$26b6o21bo20bobbo$26bo5bo41bo$14boo10bo37bo
+bo7bo$13b4o10bo4bo32boo8bobo$12booboo12boo34bo$13boo$24bobo$24bobbo6b
+oo6boo6boo6boo6boo$17boo7boo6boo6boo6boo6boo6boo$12b8o$12bo6bo41b3o$
+12bo13boo35bo$13bo4bo7b3o33bo$15boo$49b3o$10b4o8boo27bo$9b6o6boob3o23b
+o$8boob4o7b5o$bbobbo3boo12b3o11b3o$bo37bo$bo3bo32bo$b4o7boo$12bo12b3o$
+10boobo13bo$bb3o10bo10bo$b5o9bo$oob4o5bobbo$boo5boo3bo$$13boo$11bo4bo$
+10bo$10bo5bo$10b6o!

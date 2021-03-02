@@ -1,0 +1,26 @@
+#C snake pit  This term has been used for two different oscillators
+#C    the p2 snake pit (essentially the same as fore and back)
+	*.**.**
+	**.*.*.
+	......*
+	***.***
+	*......
+	.*.*.**
+	**.**.*
+.
+.
+.
+.
+#C    and the p3 snake pit.
+	.....**....
+	....*..*...
+	....*.**...
+	.**.*......
+	*.*.*.****.
+	*.........*
+	.****.*.*.*
+	......*.**.
+	...**.*....
+	...*..*....
+	....**.....
+
