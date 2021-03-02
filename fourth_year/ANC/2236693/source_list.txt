@@ -1,0 +1,16 @@
+Source Listing:
+python 3.7.4
+
+All libraries used: copy,sys and json come standard with the python install
+
+--------------------------------------------------------------------------------------------------------------------
+HOWEVER if in the event they are not pre-installed, they can be installed using pip. 
+
+pip install copy
+pip install json
+pip install sys
+
+Pip is included as standard with any Python greater than version 3.4. 
+
+HOWEVER, if it is not installed, it can be installed following this guide : https://pip.pypa.io/en/stable/installing/
+--------------------------------------------------------------------------------------------------------------------

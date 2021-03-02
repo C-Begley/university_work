@@ -1,0 +1,30 @@
+<Conor Begley>
+GUID:2236693B
+Date:1/12/2019
+
+WikiScrape library builds and runs correctly. Passes all provided unit tests. Main.hs also builds and runs as expected
+
+------------------------- Task 1 --------------------------------
+For part A, I have implemented everything defined in the spec and re-defined on padlet. 
+
+-Filter on words found in stopwords.txt 
+-Split hyphenated words e.g film-maker => film maker
+-Remove 's
+-Remove punctutation
+- Ignore words containing non-alphabet characters
+-Pulling title from URL
+   ->Filtering on first four letters of title
+     -> If multiple words in title, just using first word
+
+Additionally, I pull the text from the div tag "mw-content-text", which is the div that contains the text for article body including titles and references
+
+All of the tests run and produce the expected output
+------------------------- Task 2 --------------------------------
+I build my own cambridge dictionary scraper and made it into a library included in src. I then also used the HaTeX library. From these, I generate a HaTeX document with a table contain the country, most common word and the word's definition
+
+I've included the output files, output.tex and output.pdf, which can be found in the outputs directory
+
+--An additional dependency is pdflatex, which I run to generate the output pdf
+
+------------------------- Task 3 --------------------------------
+Has been completed and included in file report.txt
